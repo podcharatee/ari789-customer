@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="ARI789 ลูกค้าพอร์ทัลสำหรับติดตามงานชั้น 3">
+  <title>ARI789 · Floor 3 | Dkbb</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="#top" aria-label="ARI789 หน้าหลัก"><span class="brand-mark">D</span><span><b>ARI789</b><small>CLIENT PORTAL</small></span></a><div class="status"><i></i> เอกสารนำเสนอโครงการ</div></header>
+  <main id="top">
+    <section class="hero"><div class="eyebrow">DKBB · PROJECT ARI789</div><h1>รายละเอียดงาน<br><em>ชั้น 3</em></h1><p class="intro">เลือกดูภาพสี แบบ และเอกสารราคาของแต่ละยูนิต<br>ได้จากพื้นที่เดียว</p><nav class="floor-nav" aria-label="เลือกชั้น"><span class="floor-label">FLOOR</span><button class="floor active" aria-current="page">03</button><button class="floor" disabled>04 <small>ยังไม่เปิด</small></button><button class="floor" disabled>05 <small>ยังไม่เปิด</small></button><button class="floor" disabled>06 <small>ยังไม่เปิด</small></button><button class="floor" disabled>07 <small>ยังไม่เปิด</small></button></nav></section>
+    <section class="overview section"><div class="section-heading"><div><div class="eyebrow">OVERVIEW</div><h2>แผนผังชั้น 3</h2></div><span class="unit-count" id="unitCount">4 UNITS</span></div><div class="plan-wrap"><div class="plan-stage"><img id="floorplan" alt="แผนผังชั้น 3" loading="lazy"><div id="planHotspots" class="hotspots" aria-label="เลือกยูนิตจากแผนผัง"></div></div><p class="hint">แตะบริเวณยูนิตเพื่อดูรายละเอียด หรือเลือกจากรายการด้านล่าง</p><div class="plan-tools"><a href="assets/floor3.jpg" target="_blank" rel="noopener">เปิดผังขนาดใหญ่ ↗</a></div></div></section>
+    <section class="units section"><div class="section-heading"><div><div class="eyebrow">YOUR UNITS</div><h2>ยูนิตของคุณ</h2></div></div><div id="unitGrid" class="unit-grid"></div></section>
+    <section id="unitDetail" class="detail section" hidden><div class="detail-header"><button id="backBtn" class="back">← กลับไปแผนผัง</button><div id="detailMeta"></div></div><div class="detail-title"><div><div class="eyebrow">UNIT <span id="detailId"></span></div><h2 id="detailHeading"></h2></div><div id="detailDate" class="date"></div></div><div class="tabs" role="tablist" aria-label="รายละเอียดยูนิต"><button role="tab" data-tab="photos" aria-selected="true">ภาพสี</button><button role="tab" data-tab="drawings" aria-selected="false">แบบ</button><button role="tab" data-tab="price" aria-selected="false">ราคา</button><button role="tab" data-tab="downloads" aria-selected="false">ดาวน์โหลด</button></div><div id="tabContent" class="tab-content" role="tabpanel" aria-live="polite"></div></section>
+  </main>
+  <footer><span>ARI789 · FLOOR 3</span><span>ลิงก์สาธารณะ · ผู้มีลิงก์สามารถดูเอกสารได้</span></footer>
+  <dialog id="galleryModal" aria-labelledby="modalTitle"><div class="modal-bar"><h2 id="modalTitle">ภาพสี</h2><button id="closeModal" class="close" aria-label="ปิด">×</button></div><div class="modal-body"><button id="prevImage" class="gallery-nav" aria-label="ภาพก่อนหน้า">‹</button><img id="modalImage" alt=""><button id="nextImage" class="gallery-nav" aria-label="ภาพถัดไป">›</button></div><p id="modalCaption"></p></dialog>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,439 @@
+{
+  "project": "ARI789",
+  "floor": 3,
+  "plan": "assets/floor3.jpg",
+  "units": [
+    {
+      "id": "3A",
+      "date": "28 กุมภาพันธ์ 2569",
+      "hotspot": [
+        [
+          23.108118219229333,
+          25.210185185185185
+        ],
+        [
+          44.29854096520763,
+          25.210185185185185
+        ],
+        [
+          44.29854096520763,
+          40.12764550264551
+        ],
+        [
+          32.80059857837635,
+          40.12764550264551
+        ],
+        [
+          32.80059857837635,
+          44.83134920634921
+        ],
+        [
+          25.531238309016086,
+          44.83134920634921
+        ],
+        [
+          25.531238309016086,
+          33.408068783068785
+        ],
+        [
+          23.108118219229333,
+          33.408068783068785
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/3A/page-01.jpg",
+          "title": "มุมมองภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/3A/page-02.jpg",
+          "title": "มุมมองภาพสี 2",
+          "page": 2
+        },
+        {
+          "src": "assets/3A/page-03.jpg",
+          "title": "มุมมองภาพสี 3",
+          "page": 3
+        },
+        {
+          "src": "assets/3A/page-04.jpg",
+          "title": "มุมมองภาพสี 4",
+          "page": 4
+        },
+        {
+          "src": "assets/3A/page-05.jpg",
+          "title": "มุมมองภาพสี 5",
+          "page": 5
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/3A/page-06.jpg",
+          "title": "Plan",
+          "page": 6
+        },
+        {
+          "src": "assets/3A/page-07.jpg",
+          "title": "Elevation A",
+          "page": 7
+        },
+        {
+          "src": "assets/3A/page-08.jpg",
+          "title": "Elevation B",
+          "page": 8
+        },
+        {
+          "src": "assets/3A/page-09.jpg",
+          "title": "Section 1,2",
+          "page": 9
+        },
+        {
+          "src": "assets/3A/page-10.jpg",
+          "title": "Island",
+          "page": 10
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "total",
+        "amount": 1154772.89,
+        "currency": "THB",
+        "date": "9 มีนาคม 2569",
+        "note": "ราคาตามใบสรุปสำหรับลูกค้า รวม VAT 7% วันที่ 9 มีนาคม 2569",
+        "images": [
+          {
+            "src": "assets/3A/price.jpg",
+            "title": "ใบสรุปราคา (ปกปิดลายเซ็น)",
+            "page": 11
+          }
+        ],
+        "pdf": "assets/3A/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/3A/photos.pdf",
+        "drawings": "assets/3A/drawings.pdf",
+        "all": "assets/3A/customer-set.pdf"
+      }
+    },
+    {
+      "id": "3B",
+      "date": "14 กุมภาพันธ์ 2569",
+      "hotspot": [
+        [
+          44.82117471006359,
+          25.210185185185185
+        ],
+        [
+          66.05910961466518,
+          25.210185185185185
+        ],
+        [
+          66.05910961466518,
+          33.00489417989418
+        ],
+        [
+          63.6359895248784,
+          33.00489417989418
+        ],
+        [
+          63.6359895248784,
+          45.839285714285715
+        ],
+        [
+          51.42536475869809,
+          45.839285714285715
+        ],
+        [
+          51.42536475869809,
+          40.12764550264551
+        ],
+        [
+          44.82117471006359,
+          40.12764550264551
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/3B/page-01.jpg",
+          "title": "มุมมองภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/3B/page-02.jpg",
+          "title": "มุมมองภาพสี 2",
+          "page": 2
+        },
+        {
+          "src": "assets/3B/page-03.jpg",
+          "title": "มุมมองภาพสี 3",
+          "page": 3
+        },
+        {
+          "src": "assets/3B/page-04.jpg",
+          "title": "มุมมองภาพสี 4",
+          "page": 4
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/3B/page-05.jpg",
+          "title": "Plan",
+          "page": 5
+        },
+        {
+          "src": "assets/3B/page-06.jpg",
+          "title": "Elevation A , Section 1",
+          "page": 6
+        },
+        {
+          "src": "assets/3B/page-07.jpg",
+          "title": "Elevation B",
+          "page": 7
+        },
+        {
+          "src": "assets/3B/page-08.jpg",
+          "title": "Island",
+          "page": 8
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "total",
+        "amount": 968590.75,
+        "currency": "THB",
+        "date": "18 กุมภาพันธ์ 2569",
+        "note": "ราคาตามใบสรุปสำหรับลูกค้า รวม VAT 7% วันที่ 18 กุมภาพันธ์ 2569",
+        "images": [
+          {
+            "src": "assets/3B/price.jpg",
+            "title": "ใบสรุปราคา (ปกปิดลายเซ็น)",
+            "page": 9
+          }
+        ],
+        "pdf": "assets/3B/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/3B/photos.pdf",
+        "drawings": "assets/3B/drawings.pdf",
+        "all": "assets/3B/customer-set.pdf"
+      }
+    },
+    {
+      "id": "3C",
+      "date": "18 กุมภาพันธ์ 2569",
+      "hotspot": [
+        [
+          25.531238309016086,
+          45.839285714285715
+        ],
+        [
+          32.75308641975309,
+          45.839285714285715
+        ],
+        [
+          32.75308641975309,
+          58.80806878306878
+        ],
+        [
+          44.06098017209128,
+          58.80806878306878
+        ],
+        [
+          44.06098017209128,
+          69.49219576719577
+        ],
+        [
+          23.108118219229333,
+          69.49219576719577
+        ],
+        [
+          23.108118219229333,
+          62.167857142857144
+        ],
+        [
+          25.531238309016086,
+          62.167857142857144
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/3C/page-01.jpg",
+          "title": "มุมมองภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/3C/page-02.jpg",
+          "title": "มุมมองภาพสี 2",
+          "page": 2
+        },
+        {
+          "src": "assets/3C/page-03.jpg",
+          "title": "มุมมองภาพสี 3",
+          "page": 3
+        },
+        {
+          "src": "assets/3C/page-04.jpg",
+          "title": "มุมมองภาพสี 4",
+          "page": 4
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/3C/page-05.jpg",
+          "title": "Plan",
+          "page": 5
+        },
+        {
+          "src": "assets/3C/page-06.jpg",
+          "title": "Elevation A",
+          "page": 6
+        },
+        {
+          "src": "assets/3C/page-07.jpg",
+          "title": "Elevation B",
+          "page": 7
+        },
+        {
+          "src": "assets/3C/page-08.jpg",
+          "title": "Island",
+          "page": 8
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "total",
+        "amount": 771239.95,
+        "currency": "THB",
+        "date": "19 กุมภาพันธ์ 2569",
+        "note": "ราคาตามใบสรุปสำหรับลูกค้า รวม VAT 7% วันที่ 19 กุมภาพันธ์ 2569",
+        "images": [
+          {
+            "src": "assets/3C/price.jpg",
+            "title": "ใบสรุปราคา (ปกปิดลายเซ็น)",
+            "page": 9
+          }
+        ],
+        "pdf": "assets/3C/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/3C/photos.pdf",
+        "drawings": "assets/3C/drawings.pdf",
+        "all": "assets/3C/customer-set.pdf"
+      }
+    },
+    {
+      "id": "3D",
+      "date": "22 ธันวาคม 2568",
+      "hotspot": [
+        [
+          51.42536475869809,
+          46.91441798941799
+        ],
+        [
+          63.6359895248784,
+          46.91441798941799
+        ],
+        [
+          63.6359895248784,
+          61.428703703703704
+        ],
+        [
+          66.05910961466518,
+          61.428703703703704
+        ],
+        [
+          66.05910961466518,
+          69.49219576719577
+        ],
+        [
+          44.82117471006359,
+          69.49219576719577
+        ],
+        [
+          44.82117471006359,
+          58.875264550264546
+        ],
+        [
+          51.42536475869809,
+          58.875264550264546
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/3D/page-01.jpg",
+          "title": "มุมมองภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/3D/page-02.jpg",
+          "title": "มุมมองภาพสี 2",
+          "page": 2
+        },
+        {
+          "src": "assets/3D/page-03.jpg",
+          "title": "มุมมองภาพสี 3",
+          "page": 3
+        },
+        {
+          "src": "assets/3D/page-04.jpg",
+          "title": "มุมมองภาพสี 4",
+          "page": 4
+        },
+        {
+          "src": "assets/3D/page-05.jpg",
+          "title": "มุมมองภาพสี 5",
+          "page": 5
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/3D/page-06.jpg",
+          "title": "PLAN",
+          "page": 6
+        },
+        {
+          "src": "assets/3D/page-07.jpg",
+          "title": "ELEVATION A",
+          "page": 7
+        },
+        {
+          "src": "assets/3D/page-08.jpg",
+          "title": "ELEVATION B",
+          "page": 8
+        },
+        {
+          "src": "assets/3D/page-09.jpg",
+          "title": "ELEVATION A ,B ,C",
+          "page": 9
+        },
+        {
+          "src": "assets/3D/page-10.jpg",
+          "title": "ELEVATION D ,SECTION A ,B",
+          "page": 10
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "change-order",
+        "amount": 60825.22,
+        "currency": "THB",
+        "date": "22 ธันวาคม 2568",
+        "note": "ยอดเพิ่ม–ลดงาน รวม VAT 7% ไม่ใช่ราคารวมครัว และไม่นำไปรวมเป็นยอดทั้งชั้น",
+        "images": [
+          {
+            "src": "assets/3D/price.jpg",
+            "title": "ใบสรุปราคา (ปกปิดลายเซ็น)",
+            "page": 11
+          }
+        ],
+        "pdf": "assets/3D/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/3D/photos.pdf",
+        "drawings": "assets/3D/drawings.pdf",
+        "all": "assets/3D/customer-set.pdf"
+      }
+    }
+  ]
+}
