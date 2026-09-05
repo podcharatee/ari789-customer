@@ -434,6 +434,517 @@
         "drawings": "assets/3D/drawings.pdf",
         "all": "assets/3D/customer-set.pdf"
       }
+    },
+    {
+      "id": "5A",
+      "date": "02 พฤษภาคม 2569",
+      "hotspot": [
+        [
+          5,
+          18
+        ],
+        [
+          37,
+          12
+        ],
+        [
+          44,
+          43
+        ],
+        [
+          31,
+          59
+        ],
+        [
+          7,
+          52
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/5A/page-01.jpg",
+          "title": "ภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/5A/page-02.jpg",
+          "title": "ภาพสี 2",
+          "page": 2
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/5A/page-03.jpg",
+          "title": "แบบ 1",
+          "page": 3
+        },
+        {
+          "src": "assets/5A/page-04.jpg",
+          "title": "แบบ 2",
+          "page": 4
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "total",
+        "amount": 1162760.0,
+        "currency": "THB",
+        "date": "02 พฤษภาคม 2569",
+        "note": "ราคาจากหน้าใบเสนอราคา/สรุปราคา; ไม่รวมสถานะชำระเงิน",
+        "images": [
+          {
+            "src": "assets/5A/price.jpg",
+            "title": "ใบสรุปราคา",
+            "page": 11
+          }
+        ],
+        "pdf": "assets/5A/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/5A/photos.pdf",
+        "drawings": "assets/5A/drawings.pdf",
+        "all": "assets/5A/customer-set.pdf"
+      }
+    },
+    {
+      "id": "5B",
+      "date": "21 กุมภาพันธ์ 2569",
+      "hotspot": [
+        [
+          44,
+          12
+        ],
+        [
+          70,
+          12
+        ],
+        [
+          74,
+          50
+        ],
+        [
+          46,
+          52
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/5B/page-01.jpg",
+          "title": "ภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/5B/page-02.jpg",
+          "title": "ภาพสี 2",
+          "page": 2
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/5B/page-03.jpg",
+          "title": "แบบ 1",
+          "page": 3
+        },
+        {
+          "src": "assets/5B/page-04.jpg",
+          "title": "แบบ 2",
+          "page": 4
+        },
+        {
+          "src": "assets/5B/page-05.jpg",
+          "title": "แบบ 3",
+          "page": 5
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "total",
+        "amount": 592393.73,
+        "currency": "THB",
+        "date": "21 กุมภาพันธ์ 2569",
+        "note": "ราคาจากหน้าใบเสนอราคา/สรุปราคา; ไม่รวมสถานะชำระเงิน",
+        "images": [
+          {
+            "src": "assets/5B/price.jpg",
+            "title": "ใบสรุปราคา",
+            "page": 10
+          }
+        ],
+        "pdf": "assets/5B/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/5B/photos.pdf",
+        "drawings": "assets/5B/drawings.pdf",
+        "all": "assets/5B/customer-set.pdf"
+      }
+    },
+    {
+      "id": "5C",
+      "date": "03 เมษายน 2569",
+      "hotspot": [
+        [
+          74,
+          12
+        ],
+        [
+          96,
+          18
+        ],
+        [
+          94,
+          57
+        ],
+        [
+          76,
+          52
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/5C/page-01.jpg",
+          "title": "ภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/5C/page-02.jpg",
+          "title": "ภาพสี 2",
+          "page": 2
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/5C/page-03.jpg",
+          "title": "แบบ 1",
+          "page": 3
+        },
+        {
+          "src": "assets/5C/page-04.jpg",
+          "title": "แบบ 2",
+          "page": 4
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "total",
+        "amount": 894428.0,
+        "currency": "THB",
+        "date": "03 เมษายน 2569",
+        "note": "ราคาจากหน้าใบเสนอราคา/สรุปราคา; ไม่รวมสถานะชำระเงิน",
+        "images": [
+          {
+            "src": "assets/5C/price.jpg",
+            "title": "ใบสรุปราคา",
+            "page": 9
+          }
+        ],
+        "pdf": "assets/5C/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/5C/photos.pdf",
+        "drawings": "assets/5C/drawings.pdf",
+        "all": "assets/5C/customer-set.pdf"
+      }
+    },
+    {
+      "id": "6A",
+      "date": "10 เมษายน 2569",
+      "hotspot": [
+        [
+          7,
+          16
+        ],
+        [
+          50,
+          14
+        ],
+        [
+          51,
+          57
+        ],
+        [
+          9,
+          62
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/6A/page-01.jpg",
+          "title": "ภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/6A/page-02.jpg",
+          "title": "ภาพสี 2",
+          "page": 2
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/6A/page-03.jpg",
+          "title": "แบบ 1",
+          "page": 3
+        },
+        {
+          "src": "assets/6A/page-04.jpg",
+          "title": "แบบ 2",
+          "page": 4
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "total",
+        "amount": 1092765.0,
+        "currency": "THB",
+        "date": "10 เมษายน 2569",
+        "note": "ราคาจากหน้าใบเสนอราคา/สรุปราคา; ไม่รวมสถานะชำระเงิน",
+        "images": [
+          {
+            "src": "assets/6A/price.jpg",
+            "title": "ใบสรุปราคา",
+            "page": 9
+          }
+        ],
+        "pdf": "assets/6A/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/6A/photos.pdf",
+        "drawings": "assets/6A/drawings.pdf",
+        "all": "assets/6A/customer-set.pdf"
+      }
+    },
+    {
+      "id": "6B",
+      "date": "16 มีนาคม 2569",
+      "hotspot": [
+        [
+          52,
+          14
+        ],
+        [
+          94,
+          17
+        ],
+        [
+          92,
+          62
+        ],
+        [
+          52,
+          57
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/6B/page-01.jpg",
+          "title": "ภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/6B/page-02.jpg",
+          "title": "ภาพสี 2",
+          "page": 2
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/6B/page-03.jpg",
+          "title": "แบบ 1",
+          "page": 3
+        },
+        {
+          "src": "assets/6B/page-04.jpg",
+          "title": "แบบ 2",
+          "page": 4
+        }
+      ],
+      "price": {
+        "status": "pending",
+        "type": "total",
+        "amount": null,
+        "currency": "THB",
+        "date": "16 มีนาคม 2569",
+        "note": "รอยืนยันราคาจากเอกสารใบเสนอราคาสำหรับลูกค้า",
+        "images": [
+          {
+            "src": "assets/6B/price.jpg",
+            "title": "ใบสรุปราคา",
+            "page": 9
+          }
+        ],
+        "pdf": "assets/6B/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/6B/photos.pdf",
+        "drawings": "assets/6B/drawings.pdf",
+        "all": "assets/6B/customer-set.pdf"
+      }
+    },
+    {
+      "id": "7A",
+      "date": "25 เมษายน 2569",
+      "hotspot": [
+        [
+          7,
+          16
+        ],
+        [
+          50,
+          14
+        ],
+        [
+          51,
+          57
+        ],
+        [
+          9,
+          62
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/7A/page-01.jpg",
+          "title": "ภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/7A/page-02.jpg",
+          "title": "ภาพสี 2",
+          "page": 2
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/7A/page-03.jpg",
+          "title": "แบบ 1",
+          "page": 3
+        },
+        {
+          "src": "assets/7A/page-04.jpg",
+          "title": "แบบ 2",
+          "page": 4
+        }
+      ],
+      "price": {
+        "status": "approved",
+        "type": "total",
+        "amount": 1074860.0,
+        "currency": "THB",
+        "date": "25 เมษายน 2569",
+        "note": "ราคาจากหน้าใบเสนอราคา/สรุปราคา; ไม่รวมสถานะชำระเงิน",
+        "images": [
+          {
+            "src": "assets/7A/price.jpg",
+            "title": "ใบสรุปราคา",
+            "page": 11
+          }
+        ],
+        "pdf": "assets/7A/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/7A/photos.pdf",
+        "drawings": "assets/7A/drawings.pdf",
+        "all": "assets/7A/customer-set.pdf"
+      }
+    },
+    {
+      "id": "7B",
+      "date": "20 มีนาคม 2569",
+      "hotspot": [
+        [
+          52,
+          14
+        ],
+        [
+          94,
+          17
+        ],
+        [
+          92,
+          62
+        ],
+        [
+          52,
+          57
+        ]
+      ],
+      "photos": [
+        {
+          "src": "assets/7B/page-01.jpg",
+          "title": "ภาพสี 1",
+          "page": 1
+        },
+        {
+          "src": "assets/7B/page-02.jpg",
+          "title": "ภาพสี 2",
+          "page": 2
+        }
+      ],
+      "drawings": [
+        {
+          "src": "assets/7B/page-03.jpg",
+          "title": "แบบ 1",
+          "page": 3
+        },
+        {
+          "src": "assets/7B/page-04.jpg",
+          "title": "แบบ 2",
+          "page": 4
+        }
+      ],
+      "price": {
+        "status": "pending",
+        "type": "total",
+        "amount": null,
+        "currency": "THB",
+        "date": "20 มีนาคม 2569",
+        "note": "รอยืนยันราคาจากเอกสารใบเสนอราคาสำหรับลูกค้า",
+        "images": [
+          {
+            "src": "assets/7B/price.jpg",
+            "title": "ใบสรุปราคา",
+            "page": 9
+          }
+        ],
+        "pdf": "assets/7B/price.pdf"
+      },
+      "documents": {
+        "photos": "assets/7B/photos.pdf",
+        "drawings": "assets/7B/drawings.pdf",
+        "all": "assets/7B/customer-set.pdf"
+      }
     }
-  ]
+  ],
+  "floors": {
+    "3": {
+      "plan": "assets/floor3.jpg",
+      "units": [
+        "3A",
+        "3B",
+        "3C",
+        "3D"
+      ]
+    },
+    "5": {
+      "plan": "assets/floor5.jpg",
+      "units": [
+        "5A",
+        "5B",
+        "5C"
+      ]
+    },
+    "6": {
+      "plan": "assets/floor6.jpg",
+      "units": [
+        "6A",
+        "6B"
+      ]
+    },
+    "7": {
+      "plan": "assets/floor7.jpg",
+      "units": [
+        "7A",
+        "7B"
+      ]
+    }
+  }
 }
