@@ -1,0 +1,2193 @@
+{
+  "schema": "ari789.orientation.v1",
+  "units": [
+    "3A",
+    "3B",
+    "3C",
+    "3D",
+    "5A",
+    "5B",
+    "5C",
+    "6A",
+    "6B",
+    "7A",
+    "7B"
+  ],
+  "entries": [
+    {
+      "unit": "3A",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "aca61660ce5e5e51e0b0cab71c4227915073aca5f4c4067f1c940a0cd66c07cd",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "aca61660ce5e5e51e0b0cab71c4227915073aca5f4c4067f1c940a0cd66c07cd",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "photos.pdf",
+      "page": 3,
+      "source_sha256": "aca61660ce5e5e51e0b0cab71c4227915073aca5f4c4067f1c940a0cd66c07cd",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "photos.pdf",
+      "page": 4,
+      "source_sha256": "aca61660ce5e5e51e0b0cab71c4227915073aca5f4c4067f1c940a0cd66c07cd",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "photos.pdf",
+      "page": 5,
+      "source_sha256": "aca61660ce5e5e51e0b0cab71c4227915073aca5f4c4067f1c940a0cd66c07cd",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "495a79df914fd7df8c154609f576a62ad9ccc06e70acf1f0b4d77a3b196fb27c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "495a79df914fd7df8c154609f576a62ad9ccc06e70acf1f0b4d77a3b196fb27c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "drawings.pdf",
+      "page": 3,
+      "source_sha256": "495a79df914fd7df8c154609f576a62ad9ccc06e70acf1f0b4d77a3b196fb27c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "drawings.pdf",
+      "page": 4,
+      "source_sha256": "495a79df914fd7df8c154609f576a62ad9ccc06e70acf1f0b4d77a3b196fb27c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "drawings.pdf",
+      "page": 5,
+      "source_sha256": "495a79df914fd7df8c154609f576a62ad9ccc06e70acf1f0b4d77a3b196fb27c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 6,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 7,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 8,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 9,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 10,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "customer-set.pdf",
+      "page": 11,
+      "source_sha256": "1e621fbf4fd4d0bb7910ebf64ebf4516b7f4e6497c6aa5cde8c96b8229fee331",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "b859954ab8e274a1ad9d73b8dc90ed180181f13c023e1827867c14aceb502d80",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "f29640e6ea75f5d548952452a980955ea7afb53f2ae5ca412b6bd93ac03ac427",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "f29640e6ea75f5d548952452a980955ea7afb53f2ae5ca412b6bd93ac03ac427",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "photos.pdf",
+      "page": 3,
+      "source_sha256": "f29640e6ea75f5d548952452a980955ea7afb53f2ae5ca412b6bd93ac03ac427",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "photos.pdf",
+      "page": 4,
+      "source_sha256": "f29640e6ea75f5d548952452a980955ea7afb53f2ae5ca412b6bd93ac03ac427",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "e87ce30b2da5dc7af98f6aceeb69e609cd50d2f1b53f56d0508668465488e438",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "e87ce30b2da5dc7af98f6aceeb69e609cd50d2f1b53f56d0508668465488e438",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "drawings.pdf",
+      "page": 3,
+      "source_sha256": "e87ce30b2da5dc7af98f6aceeb69e609cd50d2f1b53f56d0508668465488e438",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "drawings.pdf",
+      "page": 4,
+      "source_sha256": "e87ce30b2da5dc7af98f6aceeb69e609cd50d2f1b53f56d0508668465488e438",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 6,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 7,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 8,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "customer-set.pdf",
+      "page": 9,
+      "source_sha256": "699a75ef1675e47a688df66d6fb2fe546d543640f4d109109e4bec0bd8ccc321",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3B",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "670024dcbf5626c42572694003c5700e47576bb7fed1ba5ffbf112711ec7caf3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "964c8eb0644090a136ba711d0cd2b15f1fa9a63d347e06fb165a978f0ead95c3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "964c8eb0644090a136ba711d0cd2b15f1fa9a63d347e06fb165a978f0ead95c3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "photos.pdf",
+      "page": 3,
+      "source_sha256": "964c8eb0644090a136ba711d0cd2b15f1fa9a63d347e06fb165a978f0ead95c3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "photos.pdf",
+      "page": 4,
+      "source_sha256": "964c8eb0644090a136ba711d0cd2b15f1fa9a63d347e06fb165a978f0ead95c3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "ac5cce420e8e2b2028e33c212f371ebb54f526548ee6df347ec040409b19c289",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "ac5cce420e8e2b2028e33c212f371ebb54f526548ee6df347ec040409b19c289",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "drawings.pdf",
+      "page": 3,
+      "source_sha256": "ac5cce420e8e2b2028e33c212f371ebb54f526548ee6df347ec040409b19c289",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "drawings.pdf",
+      "page": 4,
+      "source_sha256": "ac5cce420e8e2b2028e33c212f371ebb54f526548ee6df347ec040409b19c289",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 6,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 7,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 8,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "customer-set.pdf",
+      "page": 9,
+      "source_sha256": "ca93814b0f26ba4946674104e7e56762bad1553997f4c907b7240f870d70b012",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3C",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "70928daea2872a53e885a5718fa2935517eb99e175601fac7a810cc2164e077d",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "b5cf6ca552d1b4c3b47118f5befc75644107d8babad8003d8acb1a61c5a0cc92",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "b5cf6ca552d1b4c3b47118f5befc75644107d8babad8003d8acb1a61c5a0cc92",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "photos.pdf",
+      "page": 3,
+      "source_sha256": "b5cf6ca552d1b4c3b47118f5befc75644107d8babad8003d8acb1a61c5a0cc92",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "photos.pdf",
+      "page": 4,
+      "source_sha256": "b5cf6ca552d1b4c3b47118f5befc75644107d8babad8003d8acb1a61c5a0cc92",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "photos.pdf",
+      "page": 5,
+      "source_sha256": "b5cf6ca552d1b4c3b47118f5befc75644107d8babad8003d8acb1a61c5a0cc92",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "d6cf32f18f03721998a9e421bb94ea3640f0a6e65ae37a40def08eba70fc81d3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "d6cf32f18f03721998a9e421bb94ea3640f0a6e65ae37a40def08eba70fc81d3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "drawings.pdf",
+      "page": 3,
+      "source_sha256": "d6cf32f18f03721998a9e421bb94ea3640f0a6e65ae37a40def08eba70fc81d3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "drawings.pdf",
+      "page": 4,
+      "source_sha256": "d6cf32f18f03721998a9e421bb94ea3640f0a6e65ae37a40def08eba70fc81d3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "drawings.pdf",
+      "page": 5,
+      "source_sha256": "d6cf32f18f03721998a9e421bb94ea3640f0a6e65ae37a40def08eba70fc81d3",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 6,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 7,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 8,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 9,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 10,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "customer-set.pdf",
+      "page": 11,
+      "source_sha256": "73cd5e9d015878f2d91c855e448ae2bd3cd4ddb1d42b108e9b17ec69573f6095",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3D",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "52edaf9a6ef2380c93ec927ab948f3f2e4d84f37197d5b58288f9da28e54164a",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "8865a7d102346758eb68718a7cb237ff9eb498ade4f56a7cfbdc5e55622470b1",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "8865a7d102346758eb68718a7cb237ff9eb498ade4f56a7cfbdc5e55622470b1",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "7a0348ce5e8158f33d48318ebe7b8b2a2256dae6c05e9598709e6ecf27029e05",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "7a0348ce5e8158f33d48318ebe7b8b2a2256dae6c05e9598709e6ecf27029e05",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "85ab7c22bef500ae856739225278e34b4b98254a2da2dd8f3d6bd54140cbae96",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "85ab7c22bef500ae856739225278e34b4b98254a2da2dd8f3d6bd54140cbae96",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "85ab7c22bef500ae856739225278e34b4b98254a2da2dd8f3d6bd54140cbae96",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "85ab7c22bef500ae856739225278e34b4b98254a2da2dd8f3d6bd54140cbae96",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "85ab7c22bef500ae856739225278e34b4b98254a2da2dd8f3d6bd54140cbae96",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5A",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "e43162d960a866803da95845570ca7865502bf57eae4534c4e0e80e5e73cbbd2",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "d494972f7262bcc63d510f0d6defd8df8555cff4dcf52bc9e8bd54a5656b6771",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "d494972f7262bcc63d510f0d6defd8df8555cff4dcf52bc9e8bd54a5656b6771",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "c92de650ca8b510c3996a978254a282e808b6273bad2b565e0d7dc0d08e4e7a5",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "c92de650ca8b510c3996a978254a282e808b6273bad2b565e0d7dc0d08e4e7a5",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "drawings.pdf",
+      "page": 3,
+      "source_sha256": "c92de650ca8b510c3996a978254a282e808b6273bad2b565e0d7dc0d08e4e7a5",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "e58562ed59aa223324725f02d90e18c421ac47182194c635369c223ea5d792e4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "e58562ed59aa223324725f02d90e18c421ac47182194c635369c223ea5d792e4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "e58562ed59aa223324725f02d90e18c421ac47182194c635369c223ea5d792e4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "e58562ed59aa223324725f02d90e18c421ac47182194c635369c223ea5d792e4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "e58562ed59aa223324725f02d90e18c421ac47182194c635369c223ea5d792e4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "customer-set.pdf",
+      "page": 6,
+      "source_sha256": "e58562ed59aa223324725f02d90e18c421ac47182194c635369c223ea5d792e4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5B",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "3dba4d21be2b99d659b24011f02ff25a9c4b96571eee628895fde8d3bf32257b",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "504dbb8b31407992b3378ad15e91e54ae23bcdc85eb952395cfc3fdf08ecdd01",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "504dbb8b31407992b3378ad15e91e54ae23bcdc85eb952395cfc3fdf08ecdd01",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "3dd42bdc5bad249799fa14aa347882d1d26c025e4bf9d7e1a5f259c165c696d7",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "3dd42bdc5bad249799fa14aa347882d1d26c025e4bf9d7e1a5f259c165c696d7",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "deca24669efeeac705bea3b554b7883b050bdb1605106f8778884c89fb1d08d6",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "deca24669efeeac705bea3b554b7883b050bdb1605106f8778884c89fb1d08d6",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "deca24669efeeac705bea3b554b7883b050bdb1605106f8778884c89fb1d08d6",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "deca24669efeeac705bea3b554b7883b050bdb1605106f8778884c89fb1d08d6",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "deca24669efeeac705bea3b554b7883b050bdb1605106f8778884c89fb1d08d6",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "5C",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "41313756994a2a7b4ad7a1d0bd84e27e487d32420521edc96be44ad14835db93",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "50d66b1e95ad05eb4dd2e59a10be14be33eaed36bf1aef382883b511afe7fdff",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "50d66b1e95ad05eb4dd2e59a10be14be33eaed36bf1aef382883b511afe7fdff",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "55249acc51a34eceb2dd4dae7f80e4c5d473285f1ae1aa2b0c14275489208ca8",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "55249acc51a34eceb2dd4dae7f80e4c5d473285f1ae1aa2b0c14275489208ca8",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "a028731479ee4e3551052a6cfb2ba4a3622fe7d3c0263c81c9f8b0e984afeaf4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "a028731479ee4e3551052a6cfb2ba4a3622fe7d3c0263c81c9f8b0e984afeaf4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "a028731479ee4e3551052a6cfb2ba4a3622fe7d3c0263c81c9f8b0e984afeaf4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "a028731479ee4e3551052a6cfb2ba4a3622fe7d3c0263c81c9f8b0e984afeaf4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "a028731479ee4e3551052a6cfb2ba4a3622fe7d3c0263c81c9f8b0e984afeaf4",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6A",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "7222c3b6bd31457853700c80bfee84fb9d72c47ab6e510158e211210ade5112b",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "1766f3f4737a23801ad854dc1b3101793fd909b46423a7b1d055fdd468466750",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "1766f3f4737a23801ad854dc1b3101793fd909b46423a7b1d055fdd468466750",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "77783b6c2c1ea350b7fa07f581b5f9f1be769e8034c3cb79b7027ad1a7e16162",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "77783b6c2c1ea350b7fa07f581b5f9f1be769e8034c3cb79b7027ad1a7e16162",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "4f3c961a74ffea4956ad1eaaf43305c768963eb8bdadfaf96d2e648cdc06375c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "4f3c961a74ffea4956ad1eaaf43305c768963eb8bdadfaf96d2e648cdc06375c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "4f3c961a74ffea4956ad1eaaf43305c768963eb8bdadfaf96d2e648cdc06375c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "4f3c961a74ffea4956ad1eaaf43305c768963eb8bdadfaf96d2e648cdc06375c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "4f3c961a74ffea4956ad1eaaf43305c768963eb8bdadfaf96d2e648cdc06375c",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "6B",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "85c6267032c6717e03b51e50571e965189ceb014ef43d24e6e7e1ac1e151913a",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "34c32f06310cb9829b3c44ed6b2703636a8e9649b25cbc266e51713413818380",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "34c32f06310cb9829b3c44ed6b2703636a8e9649b25cbc266e51713413818380",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "23fef635439bc2341ca01b87eb62acab3fd74218161a9be7758ee6ddd35ae1f9",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "23fef635439bc2341ca01b87eb62acab3fd74218161a9be7758ee6ddd35ae1f9",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "07666b84f8ddd0d87be701119f6f4f592f4f072677d4a389946bfea2fc66a156",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "07666b84f8ddd0d87be701119f6f4f592f4f072677d4a389946bfea2fc66a156",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "07666b84f8ddd0d87be701119f6f4f592f4f072677d4a389946bfea2fc66a156",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "07666b84f8ddd0d87be701119f6f4f592f4f072677d4a389946bfea2fc66a156",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "07666b84f8ddd0d87be701119f6f4f592f4f072677d4a389946bfea2fc66a156",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7A",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "2479412ba2f1da63d52a343b2c235bc901d02d49f64b35076f81422767fa2fd8",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "photos.pdf",
+      "page": 1,
+      "source_sha256": "e129e12ec3190abc4f18c8800fb273f739c1141cae3a296b435794127a28bfa7",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "photos.pdf",
+      "page": 2,
+      "source_sha256": "e129e12ec3190abc4f18c8800fb273f739c1141cae3a296b435794127a28bfa7",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "drawings.pdf",
+      "page": 1,
+      "source_sha256": "290ca8f0d7eed5d9fd84fb3f2caf0c2ef5d7a5415132f5abe40f6f67f19abce5",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "drawings.pdf",
+      "page": 2,
+      "source_sha256": "290ca8f0d7eed5d9fd84fb3f2caf0c2ef5d7a5415132f5abe40f6f67f19abce5",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "customer-set.pdf",
+      "page": 1,
+      "source_sha256": "2a6ffd11407ee237ffdf546dda42ed441fde27e7ec01d95551c67bb753156fdc",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "customer-set.pdf",
+      "page": 2,
+      "source_sha256": "2a6ffd11407ee237ffdf546dda42ed441fde27e7ec01d95551c67bb753156fdc",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "customer-set.pdf",
+      "page": 3,
+      "source_sha256": "2a6ffd11407ee237ffdf546dda42ed441fde27e7ec01d95551c67bb753156fdc",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "customer-set.pdf",
+      "page": 4,
+      "source_sha256": "2a6ffd11407ee237ffdf546dda42ed441fde27e7ec01d95551c67bb753156fdc",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "customer-set.pdf",
+      "page": 5,
+      "source_sha256": "2a6ffd11407ee237ffdf546dda42ed441fde27e7ec01d95551c67bb753156fdc",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "7B",
+      "asset": "price.pdf",
+      "page": 1,
+      "source_sha256": "1acdbc71c89dc4943c7ddfa5845590b965464ca7b579e5d63692b21d549b048e",
+      "page_rotation_metadata": 0,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/title-block review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-05.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-06.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-07.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-08.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-09.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3A",
+      "asset": "page-10.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3B",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3B",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3B",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3B",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3B",
+      "asset": "page-05.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3B",
+      "asset": "page-06.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3B",
+      "asset": "page-07.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3B",
+      "asset": "page-08.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3C",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3C",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3C",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3C",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3C",
+      "asset": "page-05.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3C",
+      "asset": "page-06.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3C",
+      "asset": "page-07.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3C",
+      "asset": "page-08.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-05.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-06.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-07.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-08.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-09.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "3D",
+      "asset": "page-10.jpg",
+      "page": 1,
+      "width": 863,
+      "height": 625,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5A",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 918,
+      "height": 1188,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5A",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 918,
+      "height": 1188,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5A",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5A",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5B",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5B",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5B",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5B",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5B",
+      "asset": "page-05.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5C",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5C",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5C",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "5C",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "6A",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "6A",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "6A",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "6A",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "6B",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "6B",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "6B",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "6B",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "7A",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 918,
+      "height": 1188,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "7A",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 918,
+      "height": 1188,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "7A",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "7A",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "7B",
+      "asset": "page-01.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "7B",
+      "asset": "page-02.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "7B",
+      "asset": "page-03.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    },
+    {
+      "unit": "7B",
+      "asset": "page-04.jpg",
+      "page": 1,
+      "width": 1263,
+      "height": 893,
+      "applied_rotation": 0,
+      "status": "verified_upright",
+      "evidence": "contact-sheet text/perspective review"
+    }
+  ],
+  "summary": {
+    "inspected": 217,
+    "rotations_applied": 0,
+    "units": 11
+  }
+}
