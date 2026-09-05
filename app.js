@@ -1,6 +1,7 @@
 const state={data:null,unit:null,tab:'photos',gallery:[],index:0};
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+window.addEventListener('hashchange',()=>{const id=location.hash.slice(1);if(state.data&&state.data.units.some(u=>u.id===id))selectUnit(id,false)});
 const money=n=>new Intl.NumberFormat('th-TH',{minimumFractionDigits:2,maximumFractionDigits:2}).format(n);
 async function init(){try{const r=await fetch('data.json');if(!r.ok)throw Error(r.status);state.data=await r.json();render();const id=location.hash.slice(1);if(state.data.units.some(u=>u.id===id))selectUnit(id,false)}catch(e){$('#unitGrid').innerHTML='<p class="empty">โหลดข้อมูลไม่สำเร็จ กรุณารีเฟรชหน้า</p>';console.error(e)}}
 function render(){const d=state.data;$('#floorplan').src=d.plan;$('#unitCount').textContent=d.units.length+' UNITS';$('#unitGrid').innerHTML='';const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('viewBox','0 0 100 100');svg.setAttribute('preserveAspectRatio','none');svg.setAttribute('aria-label','แตะยูนิตบนแผนผัง');$('#planHotspots').replaceChildren(svg);
