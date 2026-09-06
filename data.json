@@ -44,54 +44,84 @@
         {
           "src": "assets/3A/page-01.jpg",
           "title": "มุมมองภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": 2.0,
+          "applied_rotation_deg": 2.0,
+          "confidence": 0.35
         },
         {
           "src": "assets/3A/page-02.jpg",
           "title": "มุมมองภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 1.9713,
+          "applied_rotation_deg": 1.9713,
+          "confidence": 0.93
         },
         {
           "src": "assets/3A/page-03.jpg",
           "title": "มุมมองภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 1.933,
+          "applied_rotation_deg": 1.933,
+          "confidence": 0.989
         },
         {
           "src": "assets/3A/page-04.jpg",
           "title": "มุมมองภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 2.0826,
+          "applied_rotation_deg": 2.0826,
+          "confidence": 0.446
         },
         {
           "src": "assets/3A/page-05.jpg",
           "title": "มุมมองภาพสี 5",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 2.0202,
+          "applied_rotation_deg": 2.0202,
+          "confidence": 0.951
         }
       ],
       "drawings": [
         {
           "src": "assets/3A/page-06.jpg",
           "title": "Plan",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 1.9876,
+          "applied_rotation_deg": 1.9876,
+          "confidence": 0.991
         },
         {
           "src": "assets/3A/page-07.jpg",
           "title": "Elevation A",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 2.0203,
+          "applied_rotation_deg": 2.0203,
+          "confidence": 0.983
         },
         {
           "src": "assets/3A/page-08.jpg",
           "title": "Elevation B",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 2.0102,
+          "applied_rotation_deg": 2.0102,
+          "confidence": 0.989
         },
         {
           "src": "assets/3A/page-09.jpg",
           "title": "Section 1,2",
-          "page": 9
+          "page": 9,
+          "skew_angle_deg": 1.9987,
+          "applied_rotation_deg": 1.9987,
+          "confidence": 0.986
         },
         {
           "src": "assets/3A/page-10.jpg",
           "title": "Island",
-          "page": 10
+          "page": 10,
+          "skew_angle_deg": 1.9813,
+          "applied_rotation_deg": 1.9813,
+          "confidence": 0.977
         }
       ],
       "price": {
@@ -157,44 +187,68 @@
         {
           "src": "assets/3B/page-01.jpg",
           "title": "มุมมองภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": 2.0,
+          "applied_rotation_deg": 2.0,
+          "confidence": 0.35
         },
         {
           "src": "assets/3B/page-02.jpg",
           "title": "มุมมองภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 1.8953,
+          "applied_rotation_deg": 1.8953,
+          "confidence": 0.905
         },
         {
           "src": "assets/3B/page-03.jpg",
           "title": "มุมมองภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 1.9318,
+          "applied_rotation_deg": 1.9318,
+          "confidence": 0.734
         },
         {
           "src": "assets/3B/page-04.jpg",
           "title": "มุมมองภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 2.005,
+          "applied_rotation_deg": 2.005,
+          "confidence": 0.956
         }
       ],
       "drawings": [
         {
           "src": "assets/3B/page-05.jpg",
           "title": "Plan",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 1.9755,
+          "applied_rotation_deg": 1.9755,
+          "confidence": 0.992
         },
         {
           "src": "assets/3B/page-06.jpg",
           "title": "Elevation A , Section 1",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 2.0037,
+          "applied_rotation_deg": 2.0037,
+          "confidence": 0.985
         },
         {
           "src": "assets/3B/page-07.jpg",
           "title": "Elevation B",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 1.9674,
+          "applied_rotation_deg": 1.9674,
+          "confidence": 0.975
         },
         {
           "src": "assets/3B/page-08.jpg",
           "title": "Island",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 2.0084,
+          "applied_rotation_deg": 2.0084,
+          "confidence": 0.987
         }
       ],
       "price": {
@@ -260,44 +314,68 @@
         {
           "src": "assets/3C/page-01.jpg",
           "title": "มุมมองภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": 2.0,
+          "applied_rotation_deg": 2.0,
+          "confidence": 0.753
         },
         {
           "src": "assets/3C/page-02.jpg",
           "title": "มุมมองภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 1.9896,
+          "applied_rotation_deg": 1.9896,
+          "confidence": 0.962
         },
         {
           "src": "assets/3C/page-03.jpg",
           "title": "มุมมองภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 1.9749,
+          "applied_rotation_deg": 1.9749,
+          "confidence": 0.929
         },
         {
           "src": "assets/3C/page-04.jpg",
           "title": "มุมมองภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 2.2026,
+          "applied_rotation_deg": 2.2026,
+          "confidence": 0.981
         }
       ],
       "drawings": [
         {
           "src": "assets/3C/page-05.jpg",
           "title": "Plan",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 1.9927,
+          "applied_rotation_deg": 1.9927,
+          "confidence": 0.985
         },
         {
           "src": "assets/3C/page-06.jpg",
           "title": "Elevation A",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 2.0376,
+          "applied_rotation_deg": 2.0376,
+          "confidence": 0.979
         },
         {
           "src": "assets/3C/page-07.jpg",
           "title": "Elevation B",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 1.991,
+          "applied_rotation_deg": 1.991,
+          "confidence": 0.985
         },
         {
           "src": "assets/3C/page-08.jpg",
           "title": "Island",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 1.988,
+          "applied_rotation_deg": 1.988,
+          "confidence": 0.983
         }
       ],
       "price": {
@@ -363,54 +441,84 @@
         {
           "src": "assets/3D/page-01.jpg",
           "title": "มุมมองภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": 0.9797,
+          "applied_rotation_deg": 0.9797,
+          "confidence": 0.4
         },
         {
           "src": "assets/3D/page-02.jpg",
           "title": "มุมมองภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 1.9914,
+          "applied_rotation_deg": 1.9914,
+          "confidence": 0.979
         },
         {
           "src": "assets/3D/page-03.jpg",
           "title": "มุมมองภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 2.0092,
+          "applied_rotation_deg": 2.0092,
+          "confidence": 0.983
         },
         {
           "src": "assets/3D/page-04.jpg",
           "title": "มุมมองภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 2.008,
+          "applied_rotation_deg": 2.008,
+          "confidence": 0.986
         },
         {
           "src": "assets/3D/page-05.jpg",
           "title": "มุมมองภาพสี 5",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 2.0135,
+          "applied_rotation_deg": 2.0135,
+          "confidence": 0.963
         }
       ],
       "drawings": [
         {
           "src": "assets/3D/page-06.jpg",
           "title": "PLAN",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 1.9902,
+          "applied_rotation_deg": 1.9902,
+          "confidence": 0.981
         },
         {
           "src": "assets/3D/page-07.jpg",
           "title": "ELEVATION A",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 1.999,
+          "applied_rotation_deg": 1.999,
+          "confidence": 0.985
         },
         {
           "src": "assets/3D/page-08.jpg",
           "title": "ELEVATION B",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 2.0243,
+          "applied_rotation_deg": 2.0243,
+          "confidence": 0.981
         },
         {
           "src": "assets/3D/page-09.jpg",
           "title": "ELEVATION A ,B ,C",
-          "page": 9
+          "page": 9,
+          "skew_angle_deg": 2.0098,
+          "applied_rotation_deg": 2.0098,
+          "confidence": 0.983
         },
         {
           "src": "assets/3D/page-10.jpg",
           "title": "ELEVATION D ,SECTION A ,B",
-          "page": 10
+          "page": 10,
+          "skew_angle_deg": 2.0266,
+          "applied_rotation_deg": 2.0266,
+          "confidence": 0.976
         }
       ],
       "price": {
@@ -512,44 +620,76 @@
         {
           "src": "assets/5A/page-03.jpg",
           "title": "ภาพสี 1",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.625,
+          "line_count": 5
         },
         {
           "src": "assets/5A/page-04.jpg",
           "title": "ภาพสี 2",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 26
         },
         {
           "src": "assets/5A/page-05.jpg",
           "title": "ภาพสี 3",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 31
         },
         {
           "src": "assets/5A/page-06.jpg",
           "title": "ภาพสี 4",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.5,
+          "line_count": 4
         }
       ],
       "drawings": [
         {
           "src": "assets/5A/page-07.jpg",
           "title": "แบบ 1",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 57
         },
         {
           "src": "assets/5A/page-08.jpg",
           "title": "แบบ 2",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 34
         },
         {
           "src": "assets/5A/page-09.jpg",
           "title": "แบบ 3",
-          "page": 9
+          "page": 9,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 24
         },
         {
           "src": "assets/5A/page-10.jpg",
           "title": "แบบ 4",
-          "page": 10
+          "page": 10,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 51
         }
       ],
       "price": {
@@ -644,49 +784,85 @@
         {
           "src": "assets/5B/page-01.jpg",
           "title": "ภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.875,
+          "line_count": 7
         },
         {
           "src": "assets/5B/page-02.jpg",
           "title": "ภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 10
         },
         {
           "src": "assets/5B/page-03.jpg",
           "title": "ภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 11
         },
         {
           "src": "assets/5B/page-04.jpg",
           "title": "ภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 8
         }
       ],
       "drawings": [
         {
           "src": "assets/5B/page-05.jpg",
           "title": "แบบ 1",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 59
         },
         {
           "src": "assets/5B/page-06.jpg",
           "title": "แบบ 2",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 48
         },
         {
           "src": "assets/5B/page-07.jpg",
           "title": "แบบ 3",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 32
         },
         {
           "src": "assets/5B/page-08.jpg",
           "title": "แบบ 4",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 49
         },
         {
           "src": "assets/5B/page-09.jpg",
           "title": "แบบ 5",
-          "page": 9
+          "page": 9,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 35
         }
       ],
       "price": {
@@ -769,44 +945,76 @@
         {
           "src": "assets/5C/page-01.jpg",
           "title": "ภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": -0.9883,
+          "applied_rotation_deg": -0.9883,
+          "confidence": 0.82,
+          "line_count": 64
         },
         {
           "src": "assets/5C/page-02.jpg",
           "title": "ภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 16
         },
         {
           "src": "assets/5C/page-03.jpg",
           "title": "ภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 12
         },
         {
           "src": "assets/5C/page-04.jpg",
           "title": "ภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": null,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0,
+          "line_count": 2
         }
       ],
       "drawings": [
         {
           "src": "assets/5C/page-05.jpg",
           "title": "แบบ 1",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 45
         },
         {
           "src": "assets/5C/page-06.jpg",
           "title": "แบบ 2",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 58
         },
         {
           "src": "assets/5C/page-07.jpg",
           "title": "แบบ 3",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 42
         },
         {
           "src": "assets/5C/page-08.jpg",
           "title": "แบบ 4",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 48
         }
       ],
       "price": {
@@ -921,44 +1129,76 @@
         {
           "src": "assets/6A/page-01.jpg",
           "title": "ภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.0,
+          "line_count": 9
         },
         {
           "src": "assets/6A/page-02.jpg",
           "title": "ภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.935,
+          "line_count": 16
         },
         {
           "src": "assets/6A/page-03.jpg",
           "title": "ภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 15
         },
         {
           "src": "assets/6A/page-04.jpg",
           "title": "ภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.5,
+          "line_count": 4
         }
       ],
       "drawings": [
         {
           "src": "assets/6A/page-05.jpg",
           "title": "แบบ 1",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 50
         },
         {
           "src": "assets/6A/page-06.jpg",
           "title": "แบบ 2",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 53
         },
         {
           "src": "assets/6A/page-07.jpg",
           "title": "แบบ 3",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 43
         },
         {
           "src": "assets/6A/page-08.jpg",
           "title": "แบบ 4",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 56
         }
       ],
       "price": {
@@ -1245,44 +1485,76 @@
         {
           "src": "assets/6B/page-01.jpg",
           "title": "ภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.875,
+          "line_count": 7
         },
         {
           "src": "assets/6B/page-02.jpg",
           "title": "ภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 8
         },
         {
           "src": "assets/6B/page-03.jpg",
           "title": "ภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.625,
+          "line_count": 5
         },
         {
           "src": "assets/6B/page-04.jpg",
           "title": "ภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 8
         }
       ],
       "drawings": [
         {
           "src": "assets/6B/page-05.jpg",
           "title": "แบบ 1",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 54
         },
         {
           "src": "assets/6B/page-06.jpg",
           "title": "แบบ 2",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 42
         },
         {
           "src": "assets/6B/page-07.jpg",
           "title": "แบบ 3",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 43
         },
         {
           "src": "assets/6B/page-08.jpg",
           "title": "แบบ 4",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 39
         }
       ],
       "price": {
@@ -1421,44 +1693,76 @@
         {
           "src": "assets/7A/page-03.jpg",
           "title": "ภาพสี 1",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.38,
+          "line_count": 6
         },
         {
           "src": "assets/7A/page-04.jpg",
           "title": "ภาพสี 2",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 0.156,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.938,
+          "line_count": 20
         },
         {
           "src": "assets/7A/page-05.jpg",
           "title": "ภาพสี 3",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 17
         },
         {
           "src": "assets/7A/page-06.jpg",
           "title": "ภาพสี 4",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 0.088,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.373,
+          "line_count": 3
         }
       ],
       "drawings": [
         {
           "src": "assets/7A/page-07.jpg",
           "title": "แบบ 1",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 66
         },
         {
           "src": "assets/7A/page-08.jpg",
           "title": "แบบ 2",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 44
         },
         {
           "src": "assets/7A/page-09.jpg",
           "title": "แบบ 3",
-          "page": 9
+          "page": 9,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 39
         },
         {
           "src": "assets/7A/page-10.jpg",
           "title": "แบบ 4",
-          "page": 10
+          "page": 10,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 53
         }
       ],
       "price": {
@@ -1721,44 +2025,76 @@
         {
           "src": "assets/7B/page-01.jpg",
           "title": "ภาพสี 1",
-          "page": 1
+          "page": 1,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.875,
+          "line_count": 7
         },
         {
           "src": "assets/7B/page-02.jpg",
           "title": "ภาพสี 2",
-          "page": 2
+          "page": 2,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 9
         },
         {
           "src": "assets/7B/page-03.jpg",
           "title": "ภาพสี 3",
-          "page": 3
+          "page": 3,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 0.5,
+          "line_count": 4
         },
         {
           "src": "assets/7B/page-04.jpg",
           "title": "ภาพสี 4",
-          "page": 4
+          "page": 4,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 8
         }
       ],
       "drawings": [
         {
           "src": "assets/7B/page-05.jpg",
           "title": "แบบ 1",
-          "page": 5
+          "page": 5,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 60
         },
         {
           "src": "assets/7B/page-06.jpg",
           "title": "แบบ 2",
-          "page": 6
+          "page": 6,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 45
         },
         {
           "src": "assets/7B/page-07.jpg",
           "title": "แบบ 3",
-          "page": 7
+          "page": 7,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 45
         },
         {
           "src": "assets/7B/page-08.jpg",
           "title": "แบบ 4",
-          "page": 8
+          "page": 8,
+          "skew_angle_deg": 0.0,
+          "applied_rotation_deg": 0.0,
+          "confidence": 1.0,
+          "line_count": 47
         }
       ],
       "price": {
