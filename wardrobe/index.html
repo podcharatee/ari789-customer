@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="ARI789 ลูกค้าพอร์ทัลสำหรับติดตามงานตู้เสื้อผ้าและห้องแต่งตัว ชั้น 4–5">
+  <title>ARI789 · ตู้เสื้อผ้า / ห้องแต่งตัว | Dkbb</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="ARI789 หน้าหลัก"><span class="brand-mark">D</span><span><b>ARI789</b><small>WARDROBE CLIENT PORTAL</small></span></a>
+    <a class="kitchen-link" href="../">เว็บครัว</a><div class="status"><i></i> เอกสารนำเสนอโครงการ</div>
+  </header>
+  <main id="top">
+    <section class="hero">
+      <div class="eyebrow">DKBB · PROJECT ARI789</div>
+      <h1>ตู้เสื้อผ้า<br><em>ห้องแต่งตัว</em></h1>
+      <p>พอร์ทัลสำหรับดูภาพสี แบบ และสรุปราคางานตู้เสื้อผ้า / Walk-in Closet แยกตามชั้นและยูนิต</p>
+      <div class="hero-meta"><span>FLOOR 4–5</span><span>WIC / WARDROBE</span><span>PRIVATE PROJECT LINK</span></div>
+    </section>
+    <section class="section overview" aria-labelledby="planTitle">
+      <div class="section-head"><div><div class="eyebrow">01 · LOCATION</div><h2 id="planTitle">เลือกชั้นและตำแหน่ง</h2></div><p class="hint">กดพื้นที่สีหรือการ์ดยูนิตเพื่อเปิดรายละเอียด · ใช้ Tab และ Enter ได้</p></div>
+      <nav class="floor-nav" aria-label="เลือกชั้น"><button class="floor is-active" data-floor="4">ชั้น 4<small>FLOOR 4</small></button><button class="floor" data-floor="5">ชั้น 5<small>FLOOR 5</small></button></nav>
+      <div class="plan-wrap"><img id="floorplan" src="./assets/floor4.jpg" alt="แปลนพื้นที่ชั้น 4"><div id="hotspots" class="hotspots" aria-label="ยูนิตบนแปลน"></div></div>
+      <div class="plan-tools"><a id="planDownload" href="./assets/floor4.jpg" download>ดาวน์โหลดแปลนชั้น 4</a></div>
+      <div id="unitGrid" class="unit-grid" aria-live="polite"></div>
+    </section>
+    <section id="unitDetail" class="section detail" hidden aria-labelledby="detailTitle">
+      <button id="backBtn" class="back" type="button">← กลับไปดูแปลน</button>
+      <div class="detail-head"><div><div class="eyebrow" id="detailEyebrow">UNIT</div><h2 id="detailTitle"></h2><p id="detailSubtitle" class="hint"></p></div><div id="sectionNav" class="section-nav" aria-label="ส่วนของห้อง"></div></div>
+      <div class="tabs" role="tablist" aria-label="ประเภทเอกสาร"><button class="tab is-active" role="tab" aria-selected="true" data-tab="photos">ภาพสี</button><button class="tab" role="tab" aria-selected="false" data-tab="drawings">แบบ</button><button class="tab" role="tab" aria-selected="false" data-tab="price">ราคา</button><button class="tab" role="tab" aria-selected="false" data-tab="downloads">ดาวน์โหลด</button></div>
+      <div id="tabContent" class="tab-content" role="tabpanel" aria-live="polite"></div>
+    </section>
+  </main>
+  <footer><span>ARI789 · WARDROBE / WALK-IN CLOSET</span><span>ลิงก์สาธารณะ · ผู้มีลิงก์สามารถดูเอกสารได้</span></footer>
+  <dialog id="galleryModal" aria-labelledby="modalTitle"><div class="modal-bar"><h2 id="modalTitle">ภาพสี</h2><button id="closeModal" class="close" aria-label="ปิด">×</button></div><div class="modal-body"><button id="prevImage" class="gallery-nav" aria-label="ภาพก่อนหน้า">‹</button><img id="modalImage" alt=""><button id="nextImage" class="gallery-nav" aria-label="ภาพถัดไป">›</button></div><p id="modalCaption"></p></dialog>
+  <script src="app.js"></script>
+</body>
+</html>
