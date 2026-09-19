@@ -6,6 +6,18 @@
     5
   ],
   "plans": {
+    "2": {
+      "image": "./assets/floor2.jpg",
+      "source_pdf": "/home/agent/.hermes/profiles/mint/cache/documents/dkbb_template/Dkbb_ARI789_A4_Aligned_Unit_Zones_P06.pdf",
+      "source_page_index": 0,
+      "units": []
+    },
+    "3": {
+      "image": "./assets/floor3.jpg",
+      "source_pdf": "/home/agent/.hermes/profiles/mint/cache/documents/dkbb_template/Dkbb_ARI789_A4_Aligned_Unit_Zones_P06.pdf",
+      "source_page_index": 1,
+      "units": []
+    },
     "4": {
       "image": "./assets/floor4.jpg",
       "source_pdf": "/home/agent/.hermes/profiles/mint/cache/documents/dkbb_template/Dkbb_ARI789_A4_Aligned_Unit_Zones_P06.pdf",
@@ -1734,6 +1746,18 @@
           ]
         }
       ]
+    },
+    "6": {
+      "image": "./assets/floor6.jpg",
+      "source_pdf": "/home/agent/.hermes/profiles/mint/cache/documents/dkbb_template/Dkbb_ARI789_A4_Aligned_Unit_Zones_P06.pdf",
+      "source_page_index": 4,
+      "units": []
+    },
+    "7": {
+      "image": "./assets/floor7.jpg",
+      "source_pdf": "/home/agent/.hermes/profiles/mint/cache/documents/dkbb_template/Dkbb_ARI789_A4_Aligned_Unit_Zones_P06.pdf",
+      "source_page_index": 5,
+      "units": []
     }
   },
   "units": [
