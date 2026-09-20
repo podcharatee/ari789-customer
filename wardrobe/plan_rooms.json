@@ -1,0 +1,171 @@
+{
+ "source": "/home/agent/.hermes/profiles/mint/cache/documents/dkbb_template/Dkbb_ARI789_A4_Aligned_Unit_Zones_P06_WICLabelSwap.pdf",
+ "method": "red text spans extracted from drawing text layer",
+ "rooms": {
+  "2": [],
+  "3": [],
+  "4": [
+   {
+    "room": "WIC1-4A",
+    "floor": 4,
+    "unit": "4A"
+   },
+   {
+    "room": "WIC1-4B",
+    "floor": 4,
+    "unit": "4B"
+   },
+   {
+    "room": "WIC1-4C",
+    "floor": 4,
+    "unit": "4C"
+   },
+   {
+    "room": "WIC1-4D",
+    "floor": 4,
+    "unit": "4D"
+   },
+   {
+    "room": "WIC2-4A",
+    "floor": 4,
+    "unit": "4A"
+   },
+   {
+    "room": "WIC2-4B",
+    "floor": 4,
+    "unit": "4B"
+   },
+   {
+    "room": "WIC2-4C",
+    "floor": 4,
+    "unit": "4C"
+   },
+   {
+    "room": "WIC2-4D",
+    "floor": 4,
+    "unit": "4D"
+   },
+   {
+    "room": "WICMB-4A",
+    "floor": 4,
+    "unit": "4A"
+   },
+   {
+    "room": "WICMB-4B",
+    "floor": 4,
+    "unit": "4B"
+   },
+   {
+    "room": "WICMB-4C",
+    "floor": 4,
+    "unit": "4C"
+   },
+   {
+    "room": "WICMB-4D",
+    "floor": 4,
+    "unit": "4D"
+   }
+  ],
+  "5": [
+   {
+    "room": "WIC1-5A",
+    "floor": 5,
+    "unit": "5A"
+   },
+   {
+    "room": "WIC1-5B",
+    "floor": 5,
+    "unit": "5B"
+   },
+   {
+    "room": "WIC1-5C",
+    "floor": 5,
+    "unit": "5C"
+   },
+   {
+    "room": "WIC2-5C",
+    "floor": 5,
+    "unit": "5C"
+   },
+   {
+    "room": "WICMB-5A",
+    "floor": 5,
+    "unit": "5A"
+   },
+   {
+    "room": "WICMB-5B",
+    "floor": 5,
+    "unit": "5B"
+   },
+   {
+    "room": "WICMB-5C",
+    "floor": 5,
+    "unit": "5C"
+   }
+  ],
+  "6": [
+   {
+    "room": "WIC1-6A",
+    "floor": 6,
+    "unit": "6A"
+   },
+   {
+    "room": "WIC1-6B",
+    "floor": 6,
+    "unit": "6B"
+   },
+   {
+    "room": "WIC2-6A",
+    "floor": 6,
+    "unit": "6A"
+   },
+   {
+    "room": "WIC2-6B",
+    "floor": 6,
+    "unit": "6B"
+   },
+   {
+    "room": "WICMB-6A",
+    "floor": 6,
+    "unit": "6A"
+   },
+   {
+    "room": "WICMB-6B",
+    "floor": 6,
+    "unit": "6B"
+   }
+  ],
+  "7": [
+   {
+    "room": "WIC1-7A",
+    "floor": 7,
+    "unit": "7A"
+   },
+   {
+    "room": "WIC1-7B",
+    "floor": 7,
+    "unit": "7B"
+   },
+   {
+    "room": "WIC2-7A",
+    "floor": 7,
+    "unit": "7A"
+   },
+   {
+    "room": "WIC2-7B",
+    "floor": 7,
+    "unit": "7B"
+   },
+   {
+    "room": "WICMB-7A",
+    "floor": 7,
+    "unit": "7A"
+   },
+   {
+    "room": "WICMB-7B",
+    "floor": 7,
+    "unit": "7B"
+   }
+  ]
+ }
+}
