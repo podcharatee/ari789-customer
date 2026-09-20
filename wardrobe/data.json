@@ -5008,6 +5008,7 @@
   "rooms": [
     {
       "room": "WIC2-4A",
+      "unit": "4A",
       "floor": 4,
       "has_drawings": true,
       "has_price": true,
@@ -5019,6 +5020,7 @@
     },
     {
       "room": "WICMB-4B",
+      "unit": "4B",
       "floor": 4,
       "has_drawings": true,
       "has_price": true,
@@ -5030,6 +5032,7 @@
     },
     {
       "room": "WIC2-4B",
+      "unit": "4B",
       "floor": 4,
       "has_drawings": true,
       "has_price": true,
@@ -5041,6 +5044,7 @@
     },
     {
       "room": "WIC2-4C",
+      "unit": "4C",
       "floor": 4,
       "has_drawings": true,
       "has_price": true,
@@ -5052,6 +5056,7 @@
     },
     {
       "room": "WICMB-6B",
+      "unit": "6B",
       "floor": 6,
       "has_drawings": true,
       "has_price": true,
@@ -5063,6 +5068,7 @@
     },
     {
       "room": "WIC1-5A",
+      "unit": "5A",
       "floor": 5,
       "has_drawings": true,
       "has_price": true,
@@ -5074,6 +5080,7 @@
     },
     {
       "room": "WICMB-5B",
+      "unit": "5B",
       "floor": 5,
       "has_drawings": true,
       "has_price": false,
@@ -5085,6 +5092,7 @@
     },
     {
       "room": "WIC1-5B",
+      "unit": "5B",
       "floor": 5,
       "has_drawings": true,
       "has_price": false,
@@ -5094,6 +5102,23 @@
       "download_set": "./assets/WIC1-5B/ARI789_WIC1-5B_SET.pdf",
       "download_price": null
     }
+  ],
+  "all_units": [
+    "3A",
+    "3B",
+    "3C",
+    "3D",
+    "4A",
+    "4B",
+    "4C",
+    "4D",
+    "5A",
+    "5B",
+    "5C",
+    "6A",
+    "6B",
+    "7A",
+    "7B"
   ],
   "privacy_note": "เผยแพร่เฉพาะภาพสี แบบ และใบสรุปราคาที่ flatten/redact แล้ว; ไม่เผยแพร่ QUOTATION / CONFIRM ORDER"
 }
