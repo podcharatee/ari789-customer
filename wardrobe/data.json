@@ -3773,67 +3773,27 @@
               "line_count": 9
             }
           ],
-          "drawings": [
-            {
-              "src": "./assets/WICMB-4A/page-06.jpg",
-              "title": "แบบ 1",
-              "page": 6,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 55
-            },
-            {
-              "src": "./assets/WICMB-4A/page-07.jpg",
-              "title": "แบบ 2",
-              "page": 7,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 44
-            },
-            {
-              "src": "./assets/WICMB-4A/page-08.jpg",
-              "title": "แบบ 3",
-              "page": 8,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 38
-            },
-            {
-              "src": "./assets/WICMB-4A/page-09.jpg",
-              "title": "แบบ 4",
-              "page": 9,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 32
-            }
-          ],
+          "drawings": [],
           "documents": {
-            "photos": "./assets/WICMB-4A/ARI789_WICMB-4A_RENDER.pdf",
-            "drawings": "./assets/WICMB-4A/ARI789_WICMB-4A_DWG.pdf",
-            "all": "./assets/WICMB-4A/ARI789_WICMB-4A_SET.pdf"
+            "photos": "./assets/WICMB-4A/ARI789_WICMB-4A_RENDER.pdf"
           },
           "price": {
-            "status": "pending",
+            "status": "revision_pending",
             "type": "total",
             "amount": null,
             "currency": "THB",
-            "quote": null,
-            "date": null,
-            "note": "รอยืนยันเอกสารราคาสำหรับลูกค้า",
-            "images": [],
-            "pdf": null
-          }
+            "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
+          },
+          "workflow_status": "revision_pending",
+          "workflow_note": "รอแก้ไข"
         }
       ],
       "price": {
-        "status": "approved",
+        "status": "available",
         "type": "section_totals",
         "amount": null,
-        "currency": "THB"
+        "currency": "THB",
+        "note": "เอกสารเฉพาะส่วนที่ยังใช้งาน · บางห้องรอแก้ไขและซ่อนแบบ/ราคา"
       },
       "photos": [
         {
@@ -4017,42 +3977,6 @@
           "applied_rotation_deg": 0.0,
           "confidence": 1.0,
           "line_count": 31
-        },
-        {
-          "src": "./assets/WICMB-4A/page-06.jpg",
-          "title": "แบบ 1",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 55
-        },
-        {
-          "src": "./assets/WICMB-4A/page-07.jpg",
-          "title": "แบบ 2",
-          "page": 7,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 44
-        },
-        {
-          "src": "./assets/WICMB-4A/page-08.jpg",
-          "title": "แบบ 3",
-          "page": 8,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 38
-        },
-        {
-          "src": "./assets/WICMB-4A/page-09.jpg",
-          "title": "แบบ 4",
-          "page": 9,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 32
         }
       ],
       "documents": {
@@ -4113,67 +4037,19 @@
               "line_count": 0
             }
           ],
-          "drawings": [
-            {
-              "src": "./assets/WICMB-4B/page-05.jpg",
-              "title": "แบบ 1",
-              "page": 5,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 37
-            },
-            {
-              "src": "./assets/WICMB-4B/page-06.jpg",
-              "title": "แบบ 2",
-              "page": 6,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 20
-            },
-            {
-              "src": "./assets/WICMB-4B/page-07.jpg",
-              "title": "แบบ 3",
-              "page": 7,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 25
-            },
-            {
-              "src": "./assets/WICMB-4B/page-08.jpg",
-              "title": "แบบ 4",
-              "page": 8,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 21
-            }
-          ],
+          "drawings": [],
           "documents": {
-            "photos": "./assets/WICMB-4B/ARI789_WICMB-4B_RENDER.pdf",
-            "drawings": "./assets/WICMB-4B/ARI789_WICMB-4B_DWG.pdf",
-            "all": "./assets/WICMB-4B/ARI789_WICMB-4B_SET.pdf",
-            "price": "./assets/WICMB-4B/ARI789_WICMB-4B_PRICE.pdf"
+            "photos": "./assets/WICMB-4B/ARI789_WICMB-4B_RENDER.pdf"
           },
           "price": {
-            "status": "approved",
+            "status": "revision_pending",
             "type": "total",
-            "amount": 260466.89,
+            "amount": null,
             "currency": "THB",
-            "quote": "Q.26/0917",
-            "date": "14 กันยายน 2569",
-            "note": "ยอดสุทธิ รวม VAT 7% (ก่อน VAT 243,427.00 + VAT 17,039.89)",
-            "images": [
-              {
-                "src": "./assets/WICMB-4B/price.jpg",
-                "title": "ใบสรุปราคา (ปกปิดลายเซ็น/วันที่เขียนมือ)",
-                "page": 9
-              }
-            ],
-            "pdf": "./assets/WICMB-4B/ARI789_WICMB-4B_PRICE.pdf"
-          }
+            "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
+          },
+          "workflow_status": "revision_pending",
+          "workflow_note": "รอแก้ไข"
         },
         {
           "id": "WIC2-4B",
@@ -4362,10 +4238,11 @@
         }
       ],
       "price": {
-        "status": "approved",
+        "status": "available",
         "type": "section_totals",
         "amount": null,
-        "currency": "THB"
+        "currency": "THB",
+        "note": "เอกสารเฉพาะส่วนที่ยังใช้งาน · บางห้องรอแก้ไขและซ่อนแบบ/ราคา"
       },
       "photos": [
         {
@@ -4479,42 +4356,6 @@
       ],
       "drawings": [
         {
-          "src": "./assets/WICMB-4B/page-05.jpg",
-          "title": "แบบ 1",
-          "page": 5,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 37
-        },
-        {
-          "src": "./assets/WICMB-4B/page-06.jpg",
-          "title": "แบบ 2",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 20
-        },
-        {
-          "src": "./assets/WICMB-4B/page-07.jpg",
-          "title": "แบบ 3",
-          "page": 7,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 25
-        },
-        {
-          "src": "./assets/WICMB-4B/page-08.jpg",
-          "title": "แบบ 4",
-          "page": 8,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 21
-        },
-        {
           "src": "./assets/WIC2-4B/page-05.jpg",
           "title": "แบบ 1",
           "page": 5,
@@ -4618,58 +4459,19 @@
               "line_count": 5
             }
           ],
-          "drawings": [
-            {
-              "src": "./assets/WIC2-4C/page-04.jpg",
-              "title": "แบบ 1",
-              "page": 4,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 38
-            },
-            {
-              "src": "./assets/WIC2-4C/page-05.jpg",
-              "title": "แบบ 2",
-              "page": 5,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 44
-            },
-            {
-              "src": "./assets/WIC2-4C/page-06.jpg",
-              "title": "แบบ 3",
-              "page": 6,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 42
-            }
-          ],
+          "drawings": [],
           "documents": {
-            "photos": "./assets/WIC2-4C/ARI789_WIC2-4C_RENDER.pdf",
-            "drawings": "./assets/WIC2-4C/ARI789_WIC2-4C_DWG.pdf",
-            "all": "./assets/WIC2-4C/ARI789_WIC2-4C_SET.pdf",
-            "price": "./assets/WIC2-4C/ARI789_WIC2-4C_PRICE.pdf"
+            "photos": "./assets/WIC2-4C/ARI789_WIC2-4C_RENDER.pdf"
           },
           "price": {
-            "status": "approved",
+            "status": "revision_pending",
             "type": "total",
-            "amount": 99774.29,
+            "amount": null,
             "currency": "THB",
-            "quote": "Q.26/0906",
-            "date": "29 มิถุนายน 2569",
-            "note": "ยอดรวมตามใบสรุปราคา รวม VAT 7%",
-            "images": [
-              {
-                "src": "./assets/WIC2-4C/price.jpg",
-                "title": "ใบสรุปราคา (ปกปิดลายเซ็น/วันที่เขียนมือ)",
-                "page": 7
-              }
-            ],
-            "pdf": "./assets/WIC2-4C/ARI789_WIC2-4C_PRICE.pdf"
-          }
+            "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
+          },
+          "workflow_status": "revision_pending",
+          "workflow_note": "รอแก้ไข"
         },
         {
           "id": "WIC1-4C",
@@ -4842,10 +4644,11 @@
         }
       ],
       "price": {
-        "status": "approved",
+        "status": "revision_pending",
         "type": "section_totals",
         "amount": null,
-        "currency": "THB"
+        "currency": "THB",
+        "note": "เอกสารเฉพาะส่วนที่ยังใช้งาน · บางห้องรอแก้ไขและซ่อนแบบ/ราคา"
       },
       "photos": [
         {
@@ -4950,33 +4753,6 @@
       ],
       "drawings": [
         {
-          "src": "./assets/WIC2-4C/page-04.jpg",
-          "title": "แบบ 1",
-          "page": 4,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 38
-        },
-        {
-          "src": "./assets/WIC2-4C/page-05.jpg",
-          "title": "แบบ 2",
-          "page": 5,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 44
-        },
-        {
-          "src": "./assets/WIC2-4C/page-06.jpg",
-          "title": "แบบ 3",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 42
-        },
-        {
           "src": "./assets/WIC1-4C/page-04.jpg",
           "title": "แบบ 1",
           "page": 4,
@@ -5025,7 +4801,6 @@
       "documents": {
         "photos": "./assets/4C/ARI789_4C_RENDER.pdf",
         "drawings": "./assets/4C/ARI789_4C_DWG.pdf",
-        "price": "./assets/4C/ARI789_4C_PRICE.pdf",
         "all": "./assets/4C/ARI789_4C_SET.pdf"
       }
     },
@@ -5794,19 +5569,19 @@
       "quote": "Q.26/0904",
       "download_dwg": "./assets/WIC2-4A/ARI789_WIC2-4A_DWG.pdf",
       "download_set": "./assets/WIC2-4A/ARI789_WIC2-4A_SET.pdf",
-      "download_price": "./assets/WIC2-4A/ARI789_WIC2-4A_PRICE.pdf"
+      "download_price": "./assets/WIC2-4A/ARI789_WIC2-4A_PRICE.pdf",
+      "signature_status": "prior_copy_has_signature",
+      "workflow_note": "ต้นฉบับราคาเดิมมีลายเซ็น · รอยืนยันฉบับล่าสุด"
     },
     {
       "room": "WICMB-4B",
       "unit": "4B",
       "floor": 4,
-      "has_drawings": true,
-      "has_price": true,
-      "price_amount": 260466.89,
-      "quote": "Q.26/0917",
-      "download_dwg": "./assets/WICMB-4B/ARI789_WICMB-4B_DWG.pdf",
-      "download_set": "./assets/WICMB-4B/ARI789_WICMB-4B_SET.pdf",
-      "download_price": "./assets/WICMB-4B/ARI789_WICMB-4B_PRICE.pdf"
+      "has_drawings": false,
+      "has_price": false,
+      "price_amount": null,
+      "workflow_status": "revision_pending",
+      "workflow_note": "รอแก้ไข"
     },
     {
       "room": "WIC2-4B",
@@ -5818,19 +5593,19 @@
       "quote": "Q.26/0905",
       "download_dwg": "./assets/WIC2-4B/ARI789_WIC2-4B_DWG.pdf",
       "download_set": "./assets/WIC2-4B/ARI789_WIC2-4B_SET.pdf",
-      "download_price": "./assets/WIC2-4B/ARI789_WIC2-4B_PRICE.pdf"
+      "download_price": "./assets/WIC2-4B/ARI789_WIC2-4B_PRICE.pdf",
+      "signature_status": "prior_copy_has_signature",
+      "workflow_note": "ต้นฉบับราคาเดิมมีลายเซ็น · รอยืนยันฉบับล่าสุด"
     },
     {
       "room": "WIC2-4C",
       "unit": "4C",
       "floor": 4,
-      "has_drawings": true,
-      "has_price": true,
-      "price_amount": 99774.29,
-      "quote": "Q.26/0906",
-      "download_dwg": "./assets/WIC2-4C/ARI789_WIC2-4C_DWG.pdf",
-      "download_set": "./assets/WIC2-4C/ARI789_WIC2-4C_SET.pdf",
-      "download_price": "./assets/WIC2-4C/ARI789_WIC2-4C_PRICE.pdf"
+      "has_drawings": false,
+      "has_price": false,
+      "price_amount": null,
+      "workflow_status": "revision_pending",
+      "workflow_note": "รอแก้ไข"
     },
     {
       "room": "WICMB-6B",
@@ -5890,19 +5665,19 @@
       "quote": null,
       "download_dwg": "./assets/WIC1-4A/ARI789_WIC1-4A_DWG.pdf",
       "download_set": "./assets/WIC1-4A/ARI789_WIC1-4A_SET.pdf",
-      "download_price": null
+      "download_price": null,
+      "signature_status": "not_verified",
+      "workflow_note": "รอยืนยันแบบและราคาฉบับเซ็น"
     },
     {
       "room": "WICMB-4A",
       "unit": "4A",
       "floor": 4,
-      "has_drawings": true,
+      "has_drawings": false,
       "has_price": false,
       "price_amount": null,
-      "quote": null,
-      "download_dwg": "./assets/WICMB-4A/ARI789_WICMB-4A_DWG.pdf",
-      "download_set": "./assets/WICMB-4A/ARI789_WICMB-4A_SET.pdf",
-      "download_price": null
+      "workflow_status": "revision_pending",
+      "workflow_note": "รอแก้ไข"
     },
     {
       "room": "WIC1-4C",
@@ -5914,7 +5689,9 @@
       "quote": null,
       "download_dwg": "./assets/WIC1-4C/ARI789_WIC1-4C_DWG.pdf",
       "download_set": "./assets/WIC1-4C/ARI789_WIC1-4C_SET.pdf",
-      "download_price": null
+      "download_price": null,
+      "signature_status": "not_verified",
+      "workflow_note": "รอยืนยันแบบและราคาฉบับเซ็น"
     },
     {
       "room": "WICMB-4C",
@@ -5926,7 +5703,9 @@
       "quote": null,
       "download_dwg": "./assets/WICMB-4C/ARI789_WICMB-4C_DWG.pdf",
       "download_set": "./assets/WICMB-4C/ARI789_WICMB-4C_SET.pdf",
-      "download_price": null
+      "download_price": null,
+      "signature_status": "not_verified",
+      "workflow_note": "รอยืนยันแบบและราคาฉบับเซ็น"
     },
     {
       "room": "WIC1-4B",
@@ -5938,7 +5717,9 @@
       "quote": null,
       "download_dwg": "./assets/WIC1-4B/ARI789_WIC1-4B_DWG.pdf",
       "download_set": "./assets/WIC1-4B/ARI789_WIC1-4B_SET.pdf",
-      "download_price": null
+      "download_price": null,
+      "signature_status": "reviewed_not_signed",
+      "workflow_note": "ตรวจแล้ว มีแก้สเปก · รอยืนยันฉบับเซ็น"
     }
   ],
   "room_details": {
@@ -6076,61 +5857,16 @@
           "line_count": 0
         }
       ],
-      "drawings": [
-        {
-          "src": "./assets/WICMB-4B/page-05.jpg",
-          "title": "แบบ 1",
-          "page": 5,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 37
-        },
-        {
-          "src": "./assets/WICMB-4B/page-06.jpg",
-          "title": "แบบ 2",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 20
-        },
-        {
-          "src": "./assets/WICMB-4B/page-07.jpg",
-          "title": "แบบ 3",
-          "page": 7,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 25
-        },
-        {
-          "src": "./assets/WICMB-4B/page-08.jpg",
-          "title": "แบบ 4",
-          "page": 8,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 21
-        }
-      ],
+      "drawings": [],
       "price": {
-        "status": "approved",
+        "status": "revision_pending",
         "type": "total",
-        "amount": 260466.89,
+        "amount": null,
         "currency": "THB",
-        "quote": "Q.26/0917",
-        "date": "14 กันยายน 2569",
-        "note": "ยอดสุทธิ รวม VAT 7% (ก่อน VAT 243,427.00 + VAT 17,039.89)",
-        "images": [
-          {
-            "src": "./assets/WICMB-4B/price.jpg",
-            "title": "ใบสรุปราคา (ปกปิดลายเซ็น/วันที่เขียนมือ)",
-            "page": 9
-          }
-        ],
-        "pdf": "./assets/WICMB-4B/ARI789_WICMB-4B_PRICE.pdf"
-      }
+        "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
+      },
+      "workflow_status": "revision_pending",
+      "workflow_note": "รอแก้ไข"
     },
     "WIC2-4B": {
       "photos": [
@@ -6248,52 +5984,16 @@
           "line_count": 5
         }
       ],
-      "drawings": [
-        {
-          "src": "./assets/WIC2-4C/page-04.jpg",
-          "title": "แบบ 1",
-          "page": 4,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 38
-        },
-        {
-          "src": "./assets/WIC2-4C/page-05.jpg",
-          "title": "แบบ 2",
-          "page": 5,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 44
-        },
-        {
-          "src": "./assets/WIC2-4C/page-06.jpg",
-          "title": "แบบ 3",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 42
-        }
-      ],
+      "drawings": [],
       "price": {
-        "status": "approved",
+        "status": "revision_pending",
         "type": "total",
-        "amount": 99774.29,
+        "amount": null,
         "currency": "THB",
-        "quote": "Q.26/0906",
-        "date": "29 มิถุนายน 2569",
-        "note": "ยอดรวมตามใบสรุปราคา รวม VAT 7%",
-        "images": [
-          {
-            "src": "./assets/WIC2-4C/price.jpg",
-            "title": "ใบสรุปราคา (ปกปิดลายเซ็น/วันที่เขียนมือ)",
-            "page": 7
-          }
-        ],
-        "pdf": "./assets/WIC2-4C/ARI789_WIC2-4C_PRICE.pdf"
-      }
+        "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
+      },
+      "workflow_status": "revision_pending",
+      "workflow_note": "รอแก้ไข"
     },
     "WICMB-6B": {
       "photos": [
@@ -6782,55 +6482,16 @@
           "line_count": 9
         }
       ],
-      "drawings": [
-        {
-          "src": "./assets/WICMB-4A/page-06.jpg",
-          "title": "แบบ 1",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 55
-        },
-        {
-          "src": "./assets/WICMB-4A/page-07.jpg",
-          "title": "แบบ 2",
-          "page": 7,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 44
-        },
-        {
-          "src": "./assets/WICMB-4A/page-08.jpg",
-          "title": "แบบ 3",
-          "page": 8,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 38
-        },
-        {
-          "src": "./assets/WICMB-4A/page-09.jpg",
-          "title": "แบบ 4",
-          "page": 9,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 32
-        }
-      ],
+      "drawings": [],
       "price": {
-        "status": "pending",
+        "status": "revision_pending",
         "type": "total",
         "amount": null,
         "currency": "THB",
-        "quote": null,
-        "date": null,
-        "note": "รอยืนยันเอกสารราคาสำหรับลูกค้า",
-        "images": [],
-        "pdf": null
-      }
+        "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
+      },
+      "workflow_status": "revision_pending",
+      "workflow_note": "รอแก้ไข"
     },
     "WIC1-4C": {
       "photos": [
@@ -7072,7 +6733,6 @@
     "4A",
     "4B",
     "4C",
-    "4D",
     "5A",
     "5B",
     "5C",
@@ -7101,11 +6761,6 @@
         "unit": "4C"
       },
       {
-        "room": "WIC1-4D",
-        "floor": 4,
-        "unit": "4D"
-      },
-      {
         "room": "WIC2-4A",
         "floor": 4,
         "unit": "4A"
@@ -7121,11 +6776,6 @@
         "unit": "4C"
       },
       {
-        "room": "WIC2-4D",
-        "floor": 4,
-        "unit": "4D"
-      },
-      {
         "room": "WICMB-4A",
         "floor": 4,
         "unit": "4A"
@@ -7139,11 +6789,6 @@
         "room": "WICMB-4C",
         "floor": 4,
         "unit": "4C"
-      },
-      {
-        "room": "WICMB-4D",
-        "floor": 4,
-        "unit": "4D"
       }
     ],
     "5": [
