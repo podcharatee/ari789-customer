@@ -3707,18 +3707,25 @@
           "documents": {
             "photos": "./assets/WIC1-4A/ARI789_WIC1-4A_RENDER.pdf",
             "drawings": "./assets/WIC1-4A/ARI789_WIC1-4A_DWG.pdf",
-            "all": "./assets/WIC1-4A/ARI789_WIC1-4A_SET.pdf"
+            "all": "./assets/WIC1-4A/ARI789_WIC1-4A_SET.pdf",
+            "price": "./assets/WIC1-4A/ARI789_WIC1-4A_PRICE.pdf"
           },
           "price": {
-            "status": "pending",
+            "status": "approved",
             "type": "total",
-            "amount": null,
+            "amount": 166694.23,
             "currency": "THB",
-            "quote": null,
-            "date": null,
-            "note": "รอยืนยันเอกสารราคาสำหรับลูกค้า",
-            "images": [],
-            "pdf": null
+            "quote": "Q.26/1002",
+            "date": "2 ตุลาคม 2569",
+            "note": "ยอดสุทธิ รวม VAT 7% (ก่อน VAT 155,789.00 + VAT 10,905.23) · ปกปิดลายเซ็นและวันที่เขียนมือ",
+            "images": [
+              {
+                "src": "./assets/WIC1-4A/price.jpg",
+                "title": "ใบสรุปราคา (ปกปิดลายเซ็น/วันที่เขียนมือ)",
+                "page": 8
+              }
+            ],
+            "pdf": "./assets/WIC1-4A/ARI789_WIC1-4A_PRICE.pdf"
           }
         },
         {
@@ -3789,11 +3796,11 @@
         }
       ],
       "price": {
-        "status": "available",
+        "status": "approved",
         "type": "section_totals",
         "amount": null,
         "currency": "THB",
-        "note": "เอกสารเฉพาะส่วนที่ยังใช้งาน · บางห้องรอแก้ไขและซ่อนแบบ/ราคา"
+        "note": "ราคา WIC2-4A และ WIC1-4A · WICMB-4A ยังรอแก้ไข"
       },
       "photos": [
         {
@@ -5660,14 +5667,14 @@
       "unit": "4A",
       "floor": 4,
       "has_drawings": true,
-      "has_price": false,
-      "price_amount": null,
-      "quote": null,
+      "has_price": true,
+      "price_amount": 166694.23,
+      "quote": "Q.26/1002",
       "download_dwg": "./assets/WIC1-4A/ARI789_WIC1-4A_DWG.pdf",
       "download_set": "./assets/WIC1-4A/ARI789_WIC1-4A_SET.pdf",
-      "download_price": null,
-      "signature_status": "not_verified",
-      "workflow_note": "รอยืนยันแบบและราคาฉบับเซ็น"
+      "download_price": "./assets/WIC1-4A/ARI789_WIC1-4A_PRICE.pdf",
+      "signature_status": "signed_source_seen",
+      "workflow_note": "มีราคาฉบับเซ็น 2 ต.ค. 2569"
     },
     {
       "room": "WICMB-4A",
@@ -6423,15 +6430,21 @@
         }
       ],
       "price": {
-        "status": "pending",
+        "status": "approved",
         "type": "total",
-        "amount": null,
+        "amount": 166694.23,
         "currency": "THB",
-        "quote": null,
-        "date": null,
-        "note": "รอยืนยันเอกสารราคาสำหรับลูกค้า",
-        "images": [],
-        "pdf": null
+        "quote": "Q.26/1002",
+        "date": "2 ตุลาคม 2569",
+        "note": "ยอดสุทธิ รวม VAT 7% (ก่อน VAT 155,789.00 + VAT 10,905.23) · ปกปิดลายเซ็นและวันที่เขียนมือ",
+        "images": [
+          {
+            "src": "./assets/WIC1-4A/price.jpg",
+            "title": "ใบสรุปราคา (ปกปิดลายเซ็น/วันที่เขียนมือ)",
+            "page": 8
+          }
+        ],
+        "pdf": "./assets/WIC1-4A/ARI789_WIC1-4A_PRICE.pdf"
       }
     },
     "WICMB-4A": {
