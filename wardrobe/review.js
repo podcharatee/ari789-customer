@@ -1,26 +1,138 @@
-/* Private owner reviews; never stored in the public document data. */
-(()=>{'use strict';
-const API='https://aiproxy.asymmadv.com/ari789-api', KEY='ari789-owner-review-session-v1';
-let token='',authenticated=false,loggingIn=false,loading=false;const entries=new Map();
-try{token=localStorage.getItem(KEY)||''}catch{}
-const byId=id=>document.getElementById(id),notice=text=>{byId('reviewNotice').textContent=text};
-const errors={login_required:'กรุณาเข้าสู่ระบบอีกครั้ง',login_rate_limited:'มีคำขอเข้าสู่ระบบแล้ว กรุณารออย่างน้อย 1 นาทีแล้วลองใหม่',telegram_unavailable:'ส่งข้อความยืนยันไม่ได้ กรุณาลองใหม่ภายหลัง',invalid_or_expired:'ลิงก์หมดอายุ กรุณาเริ่มเข้าสู่ระบบใหม่',expired_or_claimed:'คำขอหมดอายุ กรุณาเริ่มเข้าสู่ระบบใหม่'};
-async function api(path,method='GET',body){const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),22000);try{const response=await fetch(API+path,{method,headers:{...(token?{'Authorization':'Bearer '+token}:{}),...(body?{'Content-Type':'application/json'}:{})},body:body?JSON.stringify(body):undefined,signal:controller.signal,cache:'no-store',credentials:'omit'});let data;try{data=await response.json()}catch{throw Error('ระบบตอบกลับไม่สมบูรณ์ กรุณาลองอีกครั้ง')}if(!response.ok){const error=Error(errors[data.error]||'บันทึกไม่สำเร็จ กรุณาลองอีกครั้ง');error.status=response.status;error.data=data;throw error}return data}finally{clearTimeout(timer)}}
-function setToken(value){token=value;try{if(value)localStorage.setItem(KEY,value);else localStorage.removeItem(KEY)}catch{notice('เบราว์เซอร์ไม่เก็บการเข้าสู่ระบบ แต่ข้อมูลยังบันทึกออนไลน์ได้')}}
-function permissions(){byId('reviewLogin').hidden=authenticated;byId('reviewLogout').hidden=!authenticated;for(const e of entries.values()){e.text.disabled=!authenticated;e.text.placeholder=authenticated?'พิมพ์คอมเมนต์ของห้องนี้…':'เข้าสู่ระบบเพื่อพิมพ์คอมเมนต์';e.box.disabled=!authenticated}byId('reviewLogin').disabled=loggingIn}
-function status(e,text,kind=''){e.status.textContent=text;e.status.dataset.kind=kind;e.tr.classList.toggle('room-is-final',authenticated&&e.box.checked)}
-function apply(e,row){e.server=row;e.text.value=row.comment;e.box.checked=row.final;status(e,row.revision?'บันทึกออนไลน์แล้ว'+(row.updated_at?' · '+new Date(row.updated_at*1000).toLocaleString('th-TH'):''):'ยังไม่มีคอมเมนต์');e.retry.hidden=true;e.latest.hidden=true}
-function hasDraft(){return [...entries.values()].some(e=>e.dirty||e.saving)}
-function sessionExpired(){authenticated=false;setToken('');permissions();notice('หมดเวลาการเข้าสู่ระบบ กรุณาเข้าสู่ระบบใหม่ ข้อความที่ยังไม่บันทึกยังอยู่ในช่อง');for(const e of entries.values()){if(!e.dirty&&!e.saving){e.text.value='';e.box.checked=false;status(e,'เฉพาะกล้า')}else status(e,'ยังไม่บันทึก — กรุณาเข้าสู่ระบบใหม่','error')}}
-async function refresh(){if(!token||loading)return;loading=true;const requestingToken=token;try{const data=await api('/reviews');if(token!==requestingToken)return;authenticated=true;for(const [room,e] of entries){if(!e.dirty&&!e.saving)apply(e,data.reviews[room]||{comment:'',final:false,revision:0,updated_at:null})}permissions();notice('เข้าสู่ระบบแล้ว · บันทึกออนไลน์อัตโนมัติ · คอมเมนต์และ Final มองเห็นเฉพาะกล้า')}catch(error){if(error.status===401)sessionExpired();else notice('เชื่อมต่อระบบบันทึกไม่ได้ — เอกสารยังเปิดดูได้ กรุณาลองใหม่')}finally{loading=false}}
-function edit(e){e.version++;e.dirty=true;e.conflict=false;e.retry.hidden=true;e.latest.hidden=true;status(e,'รอบันทึก…','saving');clearTimeout(e.timer);e.timer=setTimeout(()=>save(e),650)}
-async function save(e){clearTimeout(e.timer);if(!authenticated||e.saving||!e.dirty||e.conflict)return;e.saving=true;const version=e.version,savingToken=token;status(e,'กำลังบันทึก…','saving');try{const row=await api('/reviews/'+encodeURIComponent(e.room),'PATCH',{comment:e.text.value,final:e.box.checked,expected_revision:e.server.revision});if(token!==savingToken||!authenticated)return;e.server=row;if(version===e.version){e.dirty=false;apply(e,row)}else status(e,'กำลังบันทึกข้อความล่าสุด…','saving')}catch(error){if(token!==savingToken)return;if(error.status===401)sessionExpired();if(error.status===409){e.conflict=true;e.current=error.data.current;status(e,'มีการแก้ไขจากอีกเครื่อง ข้อความในช่องนี้ยังไม่ถูกบันทึก','error');e.retry.textContent='บันทึกของฉันแทน';e.latest.hidden=false}else{status(e,error.name==='AbortError'?'การเชื่อมต่อหมดเวลา ข้อความยังไม่หาย กดลองใหม่':error.message||'ยังไม่บันทึก กรุณาลองใหม่','error');e.retry.textContent='ลองบันทึกอีกครั้ง'}e.retry.hidden=false}finally{e.saving=false;if(e.dirty&&version!==e.version&&!e.conflict&&authenticated)e.timer=setTimeout(()=>save(e),200)}}
-async function login(){if(loggingIn)return;loggingIn=true;permissions();notice('กำลังส่งคำขอยืนยันไปยัง Telegram ส่วนตัวของกล้า…');try{const start=await api('/auth/start','POST',{device:navigator.userAgent.slice(0,160)});notice('เปิด Telegram ของกล้า กดยืนยันคำขอรหัส '+start.display_code+' แล้วกลับมาหน้านี้ (ไม่ต้องปิดหน้านี้)');while(Date.now()/1000<start.expires_at){await new Promise(resolve=>setTimeout(resolve,1800));const result=await api('/auth/poll','POST',{request_id:start.request_id,poll_secret:start.poll_secret});if(result.status==='approved'){setToken(result.token);await refresh();for(const e of entries.values())if(e.dirty)save(e);return}}throw Error('คำขอหมดอายุ กรุณาเริ่มเข้าสู่ระบบอีกครั้ง')}catch(error){notice(error.name==='AbortError'?'เชื่อมต่อหมดเวลา กรุณาลองใหม่':error.message||'เข้าสู่ระบบไม่สำเร็จ')}finally{loggingIn=false;permissions()}}
-async function logout(){if(hasDraft()&&!confirm('มีข้อความที่ยังไม่บันทึก ต้องการออกจากระบบและละทิ้งข้อความนี้หรือไม่?'))return;try{await api('/auth/logout','POST',{})}catch{notice('ออกจากระบบไม่สำเร็จ กรุณาลองใหม่เมื่อเชื่อมต่อได้');return}clearSession()}
-function clearSession(){authenticated=false;setToken('');for(const e of entries.values()){clearTimeout(e.timer);e.dirty=false;e.conflict=false;e.text.value='';e.box.checked=false;e.retry.hidden=true;e.latest.hidden=true;e.server={revision:0};e.current=null;status(e,'เข้าสู่ระบบเพื่อดูและแก้ไข')}permissions();notice('คอมเมนต์และ Final เป็นข้อมูลส่วนตัวของกล้า · เอกสารยังเปิดดูได้ตามปกติ')}
-function mount(){const table=byId('roomTableWrap')?.querySelector('table');if(!table||table.dataset.reviewsMounted)return;table.dataset.reviewsMounted='1';const bar=document.createElement('div');bar.className='review-toolbar';bar.innerHTML='<div><strong>คอมเมนต์ / Final</strong><p id="reviewNotice" role="status" aria-live="polite">ข้อมูลส่วนตัวของกล้า · บันทึกออนไลน์ข้ามเครื่อง</p></div><div><button type="button" id="reviewLogin">เข้าสู่ระบบผ่าน Telegram</button><button type="button" id="reviewLogout" hidden>ออกจากระบบ</button><button type="button" id="reviewRefresh">โหลดข้อมูลใหม่</button></div>';byId('roomTableWrap').before(bar);byId('reviewLogin').addEventListener('click',login);byId('reviewLogout').addEventListener('click',logout);byId('reviewRefresh').addEventListener('click',()=>token?refresh():notice('กรุณาเข้าสู่ระบบเพื่อดูคอมเมนต์และ Final'));
-for(const title of ['คอมเมนต์','Final']){const th=document.createElement('th');th.scope='col';th.textContent=title;table.tHead.rows[0].append(th)}
-for(const tr of table.tBodies[0].rows){const room=tr.dataset.reviewRoom||tr.querySelector('.room-id')?.textContent;if(!room)continue;tr.dataset.reviewRoom=room;const comment=document.createElement('td'),final=document.createElement('td');comment.className='review-comment';final.className='review-final';const text=document.createElement('textarea');text.rows=2;text.maxLength=4000;text.placeholder='เข้าสู่ระบบเพื่อพิมพ์คอมเมนต์';text.setAttribute('aria-label','คอมเมนต์ '+room);text.disabled=true;const statusEl=document.createElement('small');statusEl.className='review-save-state';statusEl.setAttribute('role','status');const box=document.createElement('input');box.type='checkbox';box.disabled=true;box.setAttribute('aria-label','Final '+room);const label=document.createElement('label');label.append(box,document.createTextNode(' Final'));const retry=document.createElement('button'),latest=document.createElement('button');for(const b of [retry,latest]){b.type='button';b.hidden=true;b.className='review-retry'}latest.textContent='ใช้ข้อมูลจากอีกเครื่อง';retry.textContent='ลองบันทึกอีกครั้ง';comment.append(text,statusEl,retry,latest);final.append(label);tr.append(comment,final);const e={room,tr,text,box,status:statusEl,retry,latest,server:{revision:0},version:0,dirty:false,saving:false,conflict:false};entries.set(room,e);text.addEventListener('input',()=>edit(e));box.addEventListener('change',()=>{edit(e);save(e)});retry.addEventListener('click',()=>{if(e.conflict){if(!confirm('แทนที่คอมเมนต์และ Final จากอีกเครื่อง ด้วยค่าที่อยู่ในช่องนี้?'))return;e.server=e.current;e.conflict=false}save(e)});latest.addEventListener('click',()=>{if(!confirm('ละทิ้งข้อความในช่องนี้ แล้วใช้ข้อมูลล่าสุดจากอีกเครื่อง?'))return;e.dirty=false;e.conflict=false;apply(e,e.current)});status(e,'เข้าสู่ระบบเพื่อดูและแก้ไข')}
-permissions();if(token)refresh();setInterval(refresh,30000)}
-window.ARIReviews={mount};window.addEventListener('focus',refresh);window.addEventListener('beforeunload',event=>{if(hasDraft()){event.preventDefault();event.returnValue=''}});window.addEventListener('storage',event=>{if(event.key===KEY&&!event.newValue)clearSession()});document.addEventListener('DOMContentLoaded',mount);
+/* Browser-local personal notes only. No login, API, or shared approval state. */
+(() => {
+  'use strict';
+  const PREFIX = 'ari789-wardrobe-local-note-v1:';
+  const entries = new Map();
+  const emptyNote = () => ({ comment: '', final: false });
+  const keyFor = room => PREFIX + room;
+
+  function status(entry, message, failed = false) {
+    entry.status.textContent = message;
+    entry.status.dataset.kind = failed ? 'error' : 'saved';
+    entry.retry.hidden = !failed;
+  }
+
+  function parseNote(raw) {
+    if (raw === null) return emptyNote();
+    const note = JSON.parse(raw);
+    if (!note || typeof note.comment !== 'string' || note.comment.length > 4000 ||
+        typeof note.final !== 'boolean') throw new Error('Invalid local note');
+    return note;
+  }
+
+  function load(entry) {
+    // Never replace a draft that storage failed to save.
+    if (entry.unsaved) return;
+    try {
+      const raw = localStorage.getItem(keyFor(entry.room));
+      const note = parseNote(raw);
+      entry.text.value = note.comment;
+      entry.box.checked = note.final;
+      entry.row.classList.toggle('room-is-final', note.final);
+      status(entry, raw === null ? 'ยังไม่มีโน้ต' : 'บันทึกในเบราว์เซอร์นี้แล้ว');
+    } catch {
+      status(entry, 'อ่านโน้ตเดิมไม่ได้ · เบราว์เซอร์อาจปิดกั้นการเก็บข้อมูล', true);
+    }
+  }
+
+  function save(entry) {
+    const note = { comment: entry.text.value, final: entry.box.checked };
+    entry.row.classList.toggle('room-is-final', note.final);
+    entry.unsaved = true;
+    try {
+      const raw = JSON.stringify(note);
+      localStorage.setItem(keyFor(entry.room), raw);
+      if (localStorage.getItem(keyFor(entry.room)) !== raw) throw new Error('Save failed');
+      entry.unsaved = false;
+      status(entry, 'บันทึกในเบราว์เซอร์นี้แล้ว');
+    } catch {
+      status(entry, 'ยังไม่บันทึก · กรุณาคัดลอกโน้ตเก็บไว้ หรืออนุญาตให้เบราว์เซอร์เก็บข้อมูล', true);
+    }
+  }
+
+  function mount() {
+    const wrap = document.getElementById('roomTableWrap');
+    const table = wrap?.querySelector('table');
+    if (!table || table.dataset.reviewsMounted) return;
+    table.dataset.reviewsMounted = '1';
+    entries.clear();
+    let bar = document.getElementById('localReviewToolbar');
+    if (!bar) {
+      bar = document.createElement('div');
+      bar.id = 'localReviewToolbar';
+      bar.className = 'review-toolbar';
+      const description = document.createElement('div');
+      const title = document.createElement('strong');
+      title.textContent = 'โน้ตส่วนตัว / Final · ไม่ต้องล็อกอิน';
+      const notice = document.createElement('p');
+      notice.id = 'reviewNotice';
+      notice.textContent = 'บันทึกอัตโนมัติในเบราว์เซอร์นี้เท่านั้น · ไม่ส่งขึ้นเว็บและไม่ซิงก์ข้ามเครื่อง';
+      const warning = document.createElement('p');
+      warning.textContent = 'ใช้เบราว์เซอร์เดิมเพื่อดูโน้ต · ล้างข้อมูลเว็บไซต์หรือปิดโหมดไม่ระบุตัวตนแล้วโน้ตอาจหาย';
+      description.append(title, notice, warning);
+      bar.append(description);
+      wrap.before(bar);
+    }
+    for (const title of ['คอมเมนต์', 'Final']) {
+      const th = document.createElement('th');
+      th.scope = 'col';
+      th.textContent = title;
+      table.tHead.rows[0].append(th);
+    }
+    for (const row of table.tBodies[0].rows) {
+      const room = row.dataset.reviewRoom;
+      if (!room) continue;
+      const comment = document.createElement('td');
+      comment.className = 'review-comment';
+      const final = document.createElement('td');
+      final.className = 'review-final';
+      const text = document.createElement('textarea');
+      text.rows = 2;
+      text.maxLength = 4000;
+      text.placeholder = 'พิมพ์โน้ตของห้องนี้…';
+      text.setAttribute('aria-label', 'คอมเมนต์ ' + room);
+      const state = document.createElement('small');
+      state.className = 'review-save-state';
+      state.setAttribute('role', 'status');
+      const retry = document.createElement('button');
+      retry.type = 'button';
+      retry.className = 'review-retry';
+      retry.textContent = 'ลองบันทึกอีกครั้ง';
+      retry.hidden = true;
+      const box = document.createElement('input');
+      box.type = 'checkbox';
+      box.setAttribute('aria-label', 'Final ' + room);
+      const label = document.createElement('label');
+      label.append(box, document.createTextNode(' Final'));
+      comment.append(text, state, retry);
+      final.append(label);
+      row.append(comment, final);
+      const entry = { room, row, text, box, status: state, retry, unsaved: false };
+      entries.set(room, entry);
+      text.addEventListener('input', () => save(entry));
+      box.addEventListener('change', () => save(entry));
+      retry.addEventListener('click', () => {
+        if (entry.unsaved) save(entry);
+        else load(entry);
+      });
+      load(entry);
+    }
+  }
+
+  window.ARIReviews = { mount };
+  window.addEventListener('storage', event => {
+    if (event.key === null) entries.forEach(load);
+    else if (event.key.startsWith(PREFIX)) {
+      const entry = entries.get(event.key.slice(PREFIX.length));
+      if (entry) load(entry);
+    }
+  });
+  window.addEventListener('focus', () => entries.forEach(load));
+  window.addEventListener('beforeunload', event => {
+    if ([...entries.values()].some(entry => entry.unsaved)) {
+      event.preventDefault();
+      event.returnValue = '';
+    }
+  });
+  document.addEventListener('DOMContentLoaded', mount);
 })();
