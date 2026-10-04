@@ -58,17 +58,7 @@
         "unit": "5A"
       },
       {
-        "room": "WIC1-5B",
-        "floor": 5,
-        "unit": "5B"
-      },
-      {
         "room": "WIC1-5C",
-        "floor": 5,
-        "unit": "5C"
-      },
-      {
-        "room": "WIC2-5C",
         "floor": 5,
         "unit": "5C"
       },
@@ -76,11 +66,6 @@
         "room": "WICMB-5A",
         "floor": 5,
         "unit": "5A"
-      },
-      {
-        "room": "WICMB-5B",
-        "floor": 5,
-        "unit": "5B"
       },
       {
         "room": "WICMB-5C",
@@ -155,8 +140,12 @@
   },
   "publication_filter": {
     "excluded_units": [
-      "4D"
+      "4D",
+      "5B"
     ],
-    "reason": "ยกเลิกตามคำสั่งเจ้าของ 2026-10-03"
+    "reason": "ยกเลิกตามคำสั่งเจ้าของ: 4D วันที่2026-10-03;5BและWIC2-5C วันที่2026-10-04",
+    "excluded_rooms": [
+      "WIC2-5C"
+    ]
   }
 }

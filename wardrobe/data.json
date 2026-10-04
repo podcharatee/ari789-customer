@@ -1667,338 +1667,6 @@
       "source_page_index": 3,
       "units": [
         {
-          "id": "WICMB-5B",
-          "hotspot": [
-            [
-              34.382,
-              25.777
-            ],
-            [
-              34.382,
-              39.379
-            ],
-            [
-              38.361,
-              39.379
-            ],
-            [
-              38.42,
-              39.631
-            ],
-            [
-              40.261,
-              39.631
-            ],
-            [
-              40.321,
-              35.768
-            ],
-            [
-              40.618,
-              35.684
-            ],
-            [
-              40.677,
-              36.02
-            ],
-            [
-              42.221,
-              36.104
-            ],
-            [
-              42.162,
-              36.524
-            ],
-            [
-              40.677,
-              36.524
-            ],
-            [
-              40.677,
-              39.798
-            ],
-            [
-              51.306,
-              39.798
-            ],
-            [
-              51.366,
-              45.928
-            ],
-            [
-              58.432,
-              45.928
-            ],
-            [
-              58.432,
-              44.165
-            ],
-            [
-              58.729,
-              44.081
-            ],
-            [
-              58.789,
-              43.577
-            ],
-            [
-              66.211,
-              43.577
-            ],
-            [
-              66.093,
-              25.105
-            ],
-            [
-              55.701,
-              25.105
-            ],
-            [
-              53.919,
-              25.273
-            ],
-            [
-              53.86,
-              25.777
-            ],
-            [
-              51.247,
-              25.777
-            ],
-            [
-              51.188,
-              25.441
-            ],
-            [
-              49.287,
-              25.441
-            ],
-            [
-              49.228,
-              25.189
-            ],
-            [
-              48.931,
-              25.189
-            ],
-            [
-              48.872,
-              25.441
-            ],
-            [
-              48.515,
-              25.441
-            ],
-            [
-              48.634,
-              26.616
-            ],
-            [
-              48.159,
-              26.448
-            ],
-            [
-              48.159,
-              25.273
-            ],
-            [
-              42.221,
-              25.105
-            ],
-            [
-              42.043,
-              30.982
-            ],
-            [
-              41.746,
-              30.898
-            ],
-            [
-              41.746,
-              25.273
-            ],
-            [
-              35.511,
-              25.105
-            ],
-            [
-              35.333,
-              25.777
-            ]
-          ],
-          "fill_rgb": [
-            221,
-            240,
-            230
-          ]
-        },
-        {
-          "id": "WIC1-5B",
-          "hotspot": [
-            [
-              34.382,
-              25.777
-            ],
-            [
-              34.382,
-              39.379
-            ],
-            [
-              38.361,
-              39.379
-            ],
-            [
-              38.42,
-              39.631
-            ],
-            [
-              40.261,
-              39.631
-            ],
-            [
-              40.321,
-              35.768
-            ],
-            [
-              40.618,
-              35.684
-            ],
-            [
-              40.677,
-              36.02
-            ],
-            [
-              42.221,
-              36.104
-            ],
-            [
-              42.162,
-              36.524
-            ],
-            [
-              40.677,
-              36.524
-            ],
-            [
-              40.677,
-              39.798
-            ],
-            [
-              51.306,
-              39.798
-            ],
-            [
-              51.366,
-              45.928
-            ],
-            [
-              58.432,
-              45.928
-            ],
-            [
-              58.432,
-              44.165
-            ],
-            [
-              58.729,
-              44.081
-            ],
-            [
-              58.789,
-              43.577
-            ],
-            [
-              66.211,
-              43.577
-            ],
-            [
-              66.093,
-              25.105
-            ],
-            [
-              55.701,
-              25.105
-            ],
-            [
-              53.919,
-              25.273
-            ],
-            [
-              53.86,
-              25.777
-            ],
-            [
-              51.247,
-              25.777
-            ],
-            [
-              51.188,
-              25.441
-            ],
-            [
-              49.287,
-              25.441
-            ],
-            [
-              49.228,
-              25.189
-            ],
-            [
-              48.931,
-              25.189
-            ],
-            [
-              48.872,
-              25.441
-            ],
-            [
-              48.515,
-              25.441
-            ],
-            [
-              48.634,
-              26.616
-            ],
-            [
-              48.159,
-              26.448
-            ],
-            [
-              48.159,
-              25.273
-            ],
-            [
-              42.221,
-              25.105
-            ],
-            [
-              42.043,
-              30.982
-            ],
-            [
-              41.746,
-              30.898
-            ],
-            [
-              41.746,
-              25.273
-            ],
-            [
-              35.511,
-              25.105
-            ],
-            [
-              35.333,
-              25.777
-            ]
-          ],
-          "fill_rgb": [
-            221,
-            240,
-            230
-          ]
-        },
-        {
           "id": "WIC1-5A",
           "hotspot": [
             [
@@ -5080,353 +4748,6 @@
       }
     },
     {
-      "id": "5B",
-      "slug": "5B",
-      "floor": 5,
-      "label": "ยูนิต 5B",
-      "date": "",
-      "description": "ห้องแต่งตัว WICMB-5B, WIC1-5B",
-      "sections": [
-        {
-          "id": "WICMB-5B",
-          "label": "WICMB-5B",
-          "floor": 5,
-          "date": "3 กรกฎาคม 2569",
-          "photos": [
-            {
-              "src": "./assets/WICMB-5B/page-01.jpg",
-              "title": "ภาพสี 1",
-              "page": 1,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 0.375,
-              "line_count": 3
-            },
-            {
-              "src": "./assets/WICMB-5B/page-02.jpg",
-              "title": "ภาพสี 2",
-              "page": 2,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 0.5,
-              "line_count": 4
-            },
-            {
-              "src": "./assets/WICMB-5B/page-03.jpg",
-              "title": "ภาพสี 3",
-              "page": 3,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 11
-            },
-            {
-              "src": "./assets/WICMB-5B/page-04.jpg",
-              "title": "ภาพสี 4",
-              "page": 4,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 9
-            },
-            {
-              "src": "./assets/WICMB-5B/page-05.jpg",
-              "title": "ภาพสี 5",
-              "page": 5,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 0.375,
-              "line_count": 3
-            }
-          ],
-          "drawings": [
-            {
-              "src": "./assets/WICMB-5B/page-06.jpg",
-              "title": "แบบ 1",
-              "page": 6,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 39
-            },
-            {
-              "src": "./assets/WICMB-5B/page-07.jpg",
-              "title": "แบบ 2",
-              "page": 7,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 37
-            },
-            {
-              "src": "./assets/WICMB-5B/page-08.jpg",
-              "title": "แบบ 3",
-              "page": 8,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 31
-            },
-            {
-              "src": "./assets/WICMB-5B/page-09.jpg",
-              "title": "แบบ 4",
-              "page": 9,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 32
-            }
-          ],
-          "documents": {
-            "photos": "./assets/WICMB-5B/ARI789_WICMB-5B_RENDER.pdf",
-            "drawings": "./assets/WICMB-5B/ARI789_WICMB-5B_DWG.pdf",
-            "all": "./assets/WICMB-5B/ARI789_WICMB-5B_SET.pdf"
-          },
-          "price": {
-            "status": "pending",
-            "type": "total",
-            "amount": null,
-            "currency": "THB",
-            "quote": null,
-            "date": null,
-            "note": "รอยืนยันเอกสารราคาสำหรับลูกค้า",
-            "images": [],
-            "pdf": null
-          }
-        },
-        {
-          "id": "WIC1-5B",
-          "label": "WIC1-5B",
-          "floor": 5,
-          "date": "4 กรกฎาคม 2569",
-          "photos": [
-            {
-              "src": "./assets/WIC1-5B/page-01.jpg",
-              "title": "ภาพสี 1",
-              "page": 1,
-              "skew_angle_deg": 0.0411,
-              "applied_rotation_deg": 0.0,
-              "confidence": 0.984,
-              "line_count": 18
-            },
-            {
-              "src": "./assets/WIC1-5B/page-02.jpg",
-              "title": "ภาพสี 2",
-              "page": 2,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 28
-            },
-            {
-              "src": "./assets/WIC1-5B/page-03.jpg",
-              "title": "ภาพสี 3",
-              "page": 3,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 0.625,
-              "line_count": 5
-            }
-          ],
-          "drawings": [
-            {
-              "src": "./assets/WIC1-5B/page-04.jpg",
-              "title": "แบบ 1",
-              "page": 4,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 37
-            },
-            {
-              "src": "./assets/WIC1-5B/page-05.jpg",
-              "title": "แบบ 2",
-              "page": 5,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 34
-            },
-            {
-              "src": "./assets/WIC1-5B/page-06.jpg",
-              "title": "แบบ 3",
-              "page": 6,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 26
-            }
-          ],
-          "documents": {
-            "photos": "./assets/WIC1-5B/ARI789_WIC1-5B_RENDER.pdf",
-            "drawings": "./assets/WIC1-5B/ARI789_WIC1-5B_DWG.pdf",
-            "all": "./assets/WIC1-5B/ARI789_WIC1-5B_SET.pdf"
-          },
-          "price": {
-            "status": "pending",
-            "type": "total",
-            "amount": null,
-            "currency": "THB",
-            "quote": null,
-            "date": null,
-            "note": "รอยืนยันเอกสารราคาสำหรับลูกค้า",
-            "images": [],
-            "pdf": null
-          }
-        }
-      ],
-      "price": {
-        "status": "pending",
-        "type": "section_totals",
-        "amount": null,
-        "currency": "THB"
-      },
-      "photos": [
-        {
-          "src": "./assets/WICMB-5B/page-01.jpg",
-          "title": "ภาพสี 1",
-          "page": 1,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.375,
-          "line_count": 3
-        },
-        {
-          "src": "./assets/WICMB-5B/page-02.jpg",
-          "title": "ภาพสี 2",
-          "page": 2,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.5,
-          "line_count": 4
-        },
-        {
-          "src": "./assets/WICMB-5B/page-03.jpg",
-          "title": "ภาพสี 3",
-          "page": 3,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 11
-        },
-        {
-          "src": "./assets/WICMB-5B/page-04.jpg",
-          "title": "ภาพสี 4",
-          "page": 4,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 9
-        },
-        {
-          "src": "./assets/WICMB-5B/page-05.jpg",
-          "title": "ภาพสี 5",
-          "page": 5,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.375,
-          "line_count": 3
-        },
-        {
-          "src": "./assets/WIC1-5B/page-01.jpg",
-          "title": "ภาพสี 1",
-          "page": 1,
-          "skew_angle_deg": 0.0411,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.984,
-          "line_count": 18
-        },
-        {
-          "src": "./assets/WIC1-5B/page-02.jpg",
-          "title": "ภาพสี 2",
-          "page": 2,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 28
-        },
-        {
-          "src": "./assets/WIC1-5B/page-03.jpg",
-          "title": "ภาพสี 3",
-          "page": 3,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.625,
-          "line_count": 5
-        }
-      ],
-      "drawings": [
-        {
-          "src": "./assets/WICMB-5B/page-06.jpg",
-          "title": "แบบ 1",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 39
-        },
-        {
-          "src": "./assets/WICMB-5B/page-07.jpg",
-          "title": "แบบ 2",
-          "page": 7,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 37
-        },
-        {
-          "src": "./assets/WICMB-5B/page-08.jpg",
-          "title": "แบบ 3",
-          "page": 8,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 31
-        },
-        {
-          "src": "./assets/WICMB-5B/page-09.jpg",
-          "title": "แบบ 4",
-          "page": 9,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 32
-        },
-        {
-          "src": "./assets/WIC1-5B/page-04.jpg",
-          "title": "แบบ 1",
-          "page": 4,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 37
-        },
-        {
-          "src": "./assets/WIC1-5B/page-05.jpg",
-          "title": "แบบ 2",
-          "page": 5,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 34
-        },
-        {
-          "src": "./assets/WIC1-5B/page-06.jpg",
-          "title": "แบบ 3",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 26
-        }
-      ],
-      "documents": {
-        "photos": "./assets/5B/ARI789_5B_RENDER.pdf",
-        "drawings": "./assets/5B/ARI789_5B_DWG.pdf",
-        "all": "./assets/5B/ARI789_5B_SET.pdf"
-      }
-    },
-    {
       "id": "6B",
       "slug": "6B",
       "floor": 6,
@@ -5486,47 +4807,27 @@
               "line_count": 0
             }
           ],
-          "drawings": [
-            {
-              "src": "./assets/WICMB-6B/page-06.jpg",
-              "title": "แบบ 1",
-              "page": 6,
-              "skew_angle_deg": 0.0,
-              "applied_rotation_deg": 0.0,
-              "confidence": 1.0,
-              "line_count": 41
-            }
-          ],
+          "drawings": [],
           "documents": {
-            "photos": "./assets/WICMB-6B/ARI789_WICMB-6B_RENDER.pdf",
-            "drawings": "./assets/WICMB-6B/ARI789_WICMB-6B_DWG.pdf",
-            "all": "./assets/WICMB-6B/ARI789_WICMB-6B_SET.pdf",
-            "price": "./assets/WICMB-6B/ARI789_WICMB-6B_PRICE.pdf"
+            "photos": "./assets/WICMB-6B/ARI789_WICMB-6B_RENDER.pdf"
           },
           "price": {
-            "status": "approved",
+            "status": "revision_pending",
             "type": "total",
-            "amount": 259271.7,
+            "amount": null,
             "currency": "THB",
-            "quote": "Q.26/0504",
-            "date": "20 พฤษภาคม 2569",
-            "note": "ยอดสุทธิ รวม VAT 7% · หมายเหตุเดิมพิมพ์ว่า 6B Floor 6 (Bedroom 1) — mapping ยืนยันโดยเจ้าของ",
-            "images": [
-              {
-                "src": "./assets/WICMB-6B/price.jpg",
-                "title": "ใบสรุปราคา (ปกปิดลายเซ็น/วันที่เขียนมือ)",
-                "page": 7
-              }
-            ],
-            "pdf": "./assets/WICMB-6B/ARI789_WICMB-6B_PRICE.pdf"
-          }
+            "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
+          },
+          "workflow_status": "revision_pending",
+          "workflow_note": "รอแก้ไข"
         }
       ],
       "price": {
-        "status": "approved",
+        "status": "revision_pending",
         "type": "total",
-        "amount": 259271.7,
-        "currency": "THB"
+        "amount": null,
+        "currency": "THB",
+        "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
       },
       "photos": [
         {
@@ -5575,22 +4876,9 @@
           "line_count": 0
         }
       ],
-      "drawings": [
-        {
-          "src": "./assets/WICMB-6B/page-06.jpg",
-          "title": "แบบ 1",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 41
-        }
-      ],
+      "drawings": [],
       "documents": {
-        "photos": "./assets/6B/ARI789_6B_RENDER.pdf",
-        "drawings": "./assets/6B/ARI789_6B_DWG.pdf",
-        "price": "./assets/6B/ARI789_6B_PRICE.pdf",
-        "all": "./assets/6B/ARI789_6B_SET.pdf"
+        "photos": "./assets/6B/ARI789_6B_RENDER.pdf"
       }
     }
   ],
@@ -5647,13 +4935,11 @@
       "room": "WICMB-6B",
       "unit": "6B",
       "floor": 6,
-      "has_drawings": true,
-      "has_price": true,
-      "price_amount": 259271.7,
-      "quote": "Q.26/0504",
-      "download_dwg": "./assets/WICMB-6B/ARI789_WICMB-6B_DWG.pdf",
-      "download_set": "./assets/WICMB-6B/ARI789_WICMB-6B_SET.pdf",
-      "download_price": "./assets/WICMB-6B/ARI789_WICMB-6B_PRICE.pdf"
+      "has_drawings": false,
+      "has_price": false,
+      "price_amount": null,
+      "workflow_status": "revision_pending",
+      "workflow_note": "รอแก้ไข"
     },
     {
       "room": "WIC1-5A",
@@ -5666,30 +4952,6 @@
       "download_dwg": "./assets/WIC1-5A/ARI789_WIC1-5A_DWG.pdf",
       "download_set": "./assets/WIC1-5A/ARI789_WIC1-5A_SET.pdf",
       "download_price": "./assets/WIC1-5A/ARI789_WIC1-5A_PRICE.pdf"
-    },
-    {
-      "room": "WICMB-5B",
-      "unit": "5B",
-      "floor": 5,
-      "has_drawings": true,
-      "has_price": false,
-      "price_amount": null,
-      "quote": null,
-      "download_dwg": "./assets/WICMB-5B/ARI789_WICMB-5B_DWG.pdf",
-      "download_set": "./assets/WICMB-5B/ARI789_WICMB-5B_SET.pdf",
-      "download_price": null
-    },
-    {
-      "room": "WIC1-5B",
-      "unit": "5B",
-      "floor": 5,
-      "has_drawings": true,
-      "has_price": false,
-      "price_amount": null,
-      "quote": null,
-      "download_dwg": "./assets/WIC1-5B/ARI789_WIC1-5B_DWG.pdf",
-      "download_set": "./assets/WIC1-5B/ARI789_WIC1-5B_SET.pdf",
-      "download_price": null
     },
     {
       "room": "WIC1-4A",
@@ -6080,34 +5342,16 @@
           "line_count": 0
         }
       ],
-      "drawings": [
-        {
-          "src": "./assets/WICMB-6B/page-06.jpg",
-          "title": "แบบ 1",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 41
-        }
-      ],
+      "drawings": [],
       "price": {
-        "status": "approved",
+        "status": "revision_pending",
         "type": "total",
-        "amount": 259271.7,
+        "amount": null,
         "currency": "THB",
-        "quote": "Q.26/0504",
-        "date": "20 พฤษภาคม 2569",
-        "note": "ยอดสุทธิ รวม VAT 7% · หมายเหตุเดิมพิมพ์ว่า 6B Floor 6 (Bedroom 1) — mapping ยืนยันโดยเจ้าของ",
-        "images": [
-          {
-            "src": "./assets/WICMB-6B/price.jpg",
-            "title": "ใบสรุปราคา (ปกปิดลายเซ็น/วันที่เขียนมือ)",
-            "page": 7
-          }
-        ],
-        "pdf": "./assets/WICMB-6B/ARI789_WICMB-6B_PRICE.pdf"
-      }
+        "note": "รอแก้ไข — ซ่อนแบบและราคาไว้ก่อน"
+      },
+      "workflow_status": "revision_pending",
+      "workflow_note": "รอแก้ไข"
     },
     "WIC1-5A": {
       "photos": [
@@ -6220,175 +5464,6 @@
           }
         ],
         "pdf": "./assets/WIC1-5A/ARI789_WIC1-5A_PRICE.pdf"
-      }
-    },
-    "WICMB-5B": {
-      "photos": [
-        {
-          "src": "./assets/WICMB-5B/page-01.jpg",
-          "title": "ภาพสี 1",
-          "page": 1,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.375,
-          "line_count": 3
-        },
-        {
-          "src": "./assets/WICMB-5B/page-02.jpg",
-          "title": "ภาพสี 2",
-          "page": 2,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.5,
-          "line_count": 4
-        },
-        {
-          "src": "./assets/WICMB-5B/page-03.jpg",
-          "title": "ภาพสี 3",
-          "page": 3,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 11
-        },
-        {
-          "src": "./assets/WICMB-5B/page-04.jpg",
-          "title": "ภาพสี 4",
-          "page": 4,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 9
-        },
-        {
-          "src": "./assets/WICMB-5B/page-05.jpg",
-          "title": "ภาพสี 5",
-          "page": 5,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.375,
-          "line_count": 3
-        }
-      ],
-      "drawings": [
-        {
-          "src": "./assets/WICMB-5B/page-06.jpg",
-          "title": "แบบ 1",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 39
-        },
-        {
-          "src": "./assets/WICMB-5B/page-07.jpg",
-          "title": "แบบ 2",
-          "page": 7,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 37
-        },
-        {
-          "src": "./assets/WICMB-5B/page-08.jpg",
-          "title": "แบบ 3",
-          "page": 8,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 31
-        },
-        {
-          "src": "./assets/WICMB-5B/page-09.jpg",
-          "title": "แบบ 4",
-          "page": 9,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 32
-        }
-      ],
-      "price": {
-        "status": "pending",
-        "type": "total",
-        "amount": null,
-        "currency": "THB",
-        "quote": null,
-        "date": null,
-        "note": "รอยืนยันเอกสารราคาสำหรับลูกค้า",
-        "images": [],
-        "pdf": null
-      }
-    },
-    "WIC1-5B": {
-      "photos": [
-        {
-          "src": "./assets/WIC1-5B/page-01.jpg",
-          "title": "ภาพสี 1",
-          "page": 1,
-          "skew_angle_deg": 0.0411,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.984,
-          "line_count": 18
-        },
-        {
-          "src": "./assets/WIC1-5B/page-02.jpg",
-          "title": "ภาพสี 2",
-          "page": 2,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 28
-        },
-        {
-          "src": "./assets/WIC1-5B/page-03.jpg",
-          "title": "ภาพสี 3",
-          "page": 3,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 0.625,
-          "line_count": 5
-        }
-      ],
-      "drawings": [
-        {
-          "src": "./assets/WIC1-5B/page-04.jpg",
-          "title": "แบบ 1",
-          "page": 4,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 37
-        },
-        {
-          "src": "./assets/WIC1-5B/page-05.jpg",
-          "title": "แบบ 2",
-          "page": 5,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 34
-        },
-        {
-          "src": "./assets/WIC1-5B/page-06.jpg",
-          "title": "แบบ 3",
-          "page": 6,
-          "skew_angle_deg": 0.0,
-          "applied_rotation_deg": 0.0,
-          "confidence": 1.0,
-          "line_count": 26
-        }
-      ],
-      "price": {
-        "status": "pending",
-        "type": "total",
-        "amount": null,
-        "currency": "THB",
-        "quote": null,
-        "date": null,
-        "note": "รอยืนยันเอกสารราคาสำหรับลูกค้า",
-        "images": [],
-        "pdf": null
       }
     },
     "WIC1-4A": {
@@ -6795,7 +5870,6 @@
     "4B",
     "4C",
     "5A",
-    "5B",
     "5C",
     "6A",
     "6B",
@@ -6859,17 +5933,7 @@
         "unit": "5A"
       },
       {
-        "room": "WIC1-5B",
-        "floor": 5,
-        "unit": "5B"
-      },
-      {
         "room": "WIC1-5C",
-        "floor": 5,
-        "unit": "5C"
-      },
-      {
-        "room": "WIC2-5C",
         "floor": 5,
         "unit": "5C"
       },
@@ -6877,11 +5941,6 @@
         "room": "WICMB-5A",
         "floor": 5,
         "unit": "5A"
-      },
-      {
-        "room": "WICMB-5B",
-        "floor": 5,
-        "unit": "5B"
       },
       {
         "room": "WICMB-5C",
