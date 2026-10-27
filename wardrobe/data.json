@@ -3277,8 +3277,8 @@
             ],
             "pdf": "./assets/WIC2-4A/r20261020/ARI789_WIC2-4A_PRICE.pdf"
           },
-          "workflow_status": "review_ready",
-          "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
         },
         {
           "id": "WIC1-4A",
@@ -3382,8 +3382,8 @@
             ],
             "pdf": "./assets/WIC1-4A/r20261020/ARI789_WIC1-4A_PRICE.pdf"
           },
-          "workflow_status": "review_ready",
-          "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
         },
         {
           "id": "WICMB-4A",
@@ -3487,8 +3487,8 @@
             ],
             "pdf": "./assets/WICMB-4A/r20261020/ARI789_WICMB-4A_PRICE.pdf"
           },
-          "workflow_status": "review_ready",
-          "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
         }
       ],
       "price": {
@@ -3819,8 +3819,8 @@
             ],
             "pdf": "./assets/WICMB-4B/r20261020/ARI789_WICMB-4B_PRICE.pdf"
           },
-          "workflow_status": "review_ready",
-          "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
         },
         {
           "id": "WIC2-4B",
@@ -3914,8 +3914,8 @@
             ],
             "pdf": "./assets/WIC2-4B/r20261020/ARI789_WIC2-4B_PRICE.pdf"
           },
-          "workflow_status": "review_ready",
-          "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
         },
         {
           "id": "WIC1-4B",
@@ -3999,8 +3999,8 @@
             ],
             "pdf": "./assets/WIC1-4B/r20261020/ARI789_WIC1-4B_PRICE.pdf"
           },
-          "workflow_status": "review_ready",
-          "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
         }
       ],
       "price": {
@@ -4301,8 +4301,8 @@
             ],
             "pdf": "./assets/WIC2-4C/r20261020/ARI789_WIC2-4C_PRICE.pdf"
           },
-          "workflow_status": "review_ready",
-          "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
         },
         {
           "id": "WIC1-4C",
@@ -4386,8 +4386,8 @@
             ],
             "pdf": "./assets/WIC1-4C/r20261020/ARI789_WIC1-4C_PRICE.pdf"
           },
-          "workflow_status": "review_ready",
-          "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
         },
         {
           "id": "WICMB-4C",
@@ -4511,8 +4511,8 @@
             ],
             "pdf": "./assets/WICMB-4C/r20261020/ARI789_WICMB-4C_PRICE.pdf"
           },
-          "workflow_status": "draft",
-          "workflow_note": "ฉบับปรับปรุง 20 ต.ค. 2569 · รอยืนยันความลึกตู้และตำแหน่งไฟ"
+          "workflow_status": "final",
+          "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569 · ป้ายสถานะเดิมใน PDF คงอยู่เป็นประวัติ"
         }
       ],
       "price": {
@@ -5110,8 +5110,8 @@
       "download_set": "./assets/WIC2-4A/r20261020/ARI789_WIC2-4A_SET.pdf",
       "download_price": "./assets/WIC2-4A/r20261020/ARI789_WIC2-4A_PRICE.pdf",
       "signature_status": "signed_source_seen",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ",
-      "workflow_status": "review_ready",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569",
+      "workflow_status": "final",
       "source_returned_on": "2026-10-20"
     },
     {
@@ -5121,8 +5121,8 @@
       "has_drawings": true,
       "has_price": true,
       "price_amount": 283669.84,
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ",
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569",
       "quote": "Q.26/0917-1",
       "download_dwg": "./assets/WICMB-4B/r20261020/ARI789_WICMB-4B_DWG.pdf",
       "download_price": "./assets/WICMB-4B/r20261020/ARI789_WICMB-4B_PRICE.pdf",
@@ -5142,8 +5142,8 @@
       "download_set": "./assets/WIC2-4B/r20261020/ARI789_WIC2-4B_SET.pdf",
       "download_price": "./assets/WIC2-4B/r20261020/ARI789_WIC2-4B_PRICE.pdf",
       "signature_status": "signed_source_seen",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ",
-      "workflow_status": "review_ready",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569",
+      "workflow_status": "final",
       "source_returned_on": "2026-10-20"
     },
     {
@@ -5153,8 +5153,8 @@
       "has_drawings": true,
       "has_price": true,
       "price_amount": 109906.12,
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ",
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569",
       "quote": "Q.26/0906-1",
       "download_dwg": "./assets/WIC2-4C/r20261020/ARI789_WIC2-4C_DWG.pdf",
       "download_price": "./assets/WIC2-4C/r20261020/ARI789_WIC2-4C_PRICE.pdf",
@@ -5196,8 +5196,8 @@
       "download_set": "./assets/WIC1-4A/r20261020/ARI789_WIC1-4A_SET.pdf",
       "download_price": "./assets/WIC1-4A/r20261020/ARI789_WIC1-4A_PRICE.pdf",
       "signature_status": "signed_source_seen",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ",
-      "workflow_status": "review_ready",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569",
+      "workflow_status": "final",
       "source_returned_on": "2026-10-20"
     },
     {
@@ -5207,8 +5207,8 @@
       "has_drawings": true,
       "has_price": true,
       "price_amount": 213326.97,
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ",
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569",
       "quote": "Q.26/1003-1",
       "download_dwg": "./assets/WICMB-4A/r20261020/ARI789_WICMB-4A_DWG.pdf",
       "download_price": "./assets/WICMB-4A/r20261020/ARI789_WICMB-4A_PRICE.pdf",
@@ -5228,8 +5228,8 @@
       "download_set": "./assets/WIC1-4C/r20261020/ARI789_WIC1-4C_SET.pdf",
       "download_price": "./assets/WIC1-4C/r20261020/ARI789_WIC1-4C_PRICE.pdf",
       "signature_status": "signed_source_seen",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ",
-      "workflow_status": "review_ready",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569",
+      "workflow_status": "final",
       "source_returned_on": "2026-10-20"
     },
     {
@@ -5244,8 +5244,8 @@
       "download_set": "./assets/WICMB-4C/r20261020/ARI789_WICMB-4C_SET.pdf",
       "download_price": "./assets/WICMB-4C/r20261020/ARI789_WICMB-4C_PRICE.pdf",
       "signature_status": "signed_source_seen",
-      "workflow_note": "ฉบับปรับปรุง 20 ต.ค. 2569 · รอยืนยันความลึกตู้และตำแหน่งไฟ",
-      "workflow_status": "draft",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569 · ป้ายสถานะเดิมใน PDF คงอยู่เป็นประวัติ",
+      "workflow_status": "final",
       "source_returned_on": "2026-10-20"
     },
     {
@@ -5260,8 +5260,8 @@
       "download_set": "./assets/WIC1-4B/r20261020/ARI789_WIC1-4B_SET.pdf",
       "download_price": "./assets/WIC1-4B/r20261020/ARI789_WIC1-4B_PRICE.pdf",
       "signature_status": "signed_source_seen",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ",
-      "workflow_status": "review_ready",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569",
+      "workflow_status": "final",
       "source_returned_on": "2026-10-20"
     }
   ],
@@ -5338,8 +5338,8 @@
         ],
         "pdf": "./assets/WIC2-4A/r20261020/ARI789_WIC2-4A_PRICE.pdf"
       },
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
     },
     "WICMB-4B": {
       "photos": [
@@ -5443,8 +5443,8 @@
         ],
         "pdf": "./assets/WICMB-4B/r20261020/ARI789_WICMB-4B_PRICE.pdf"
       },
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
     },
     "WIC2-4B": {
       "photos": [
@@ -5528,8 +5528,8 @@
         ],
         "pdf": "./assets/WIC2-4B/r20261020/ARI789_WIC2-4B_PRICE.pdf"
       },
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
     },
     "WIC2-4C": {
       "photos": [
@@ -5603,8 +5603,8 @@
         ],
         "pdf": "./assets/WIC2-4C/r20261020/ARI789_WIC2-4C_PRICE.pdf"
       },
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
     },
     "WICMB-6B": {
       "photos": [
@@ -5870,8 +5870,8 @@
         ],
         "pdf": "./assets/WIC1-4A/r20261020/ARI789_WIC1-4A_PRICE.pdf"
       },
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
     },
     "WICMB-4A": {
       "photos": [
@@ -5965,8 +5965,8 @@
         ],
         "pdf": "./assets/WICMB-4A/r20261020/ARI789_WICMB-4A_PRICE.pdf"
       },
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
     },
     "WIC1-4C": {
       "photos": [
@@ -6040,8 +6040,8 @@
         ],
         "pdf": "./assets/WIC1-4C/r20261020/ARI789_WIC1-4C_PRICE.pdf"
       },
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
     },
     "WICMB-4C": {
       "photos": [
@@ -6155,8 +6155,8 @@
         ],
         "pdf": "./assets/WICMB-4C/r20261020/ARI789_WICMB-4C_PRICE.pdf"
       },
-      "workflow_status": "draft",
-      "workflow_note": "ฉบับปรับปรุง 20 ต.ค. 2569 · รอยืนยันความลึกตู้และตำแหน่งไฟ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569 · ป้ายสถานะเดิมใน PDF คงอยู่เป็นประวัติ"
     },
     "WIC1-4B": {
       "photos": [
@@ -6230,8 +6230,8 @@
         ],
         "pdf": "./assets/WIC1-4B/r20261020/ARI789_WIC1-4B_PRICE.pdf"
       },
-      "workflow_status": "review_ready",
-      "workflow_note": "แบบและราคาฉบับรับคืน 20 ต.ค. 2569 · พร้อมตรวจ"
+      "workflow_status": "final",
+      "workflow_note": "สถานะ Final ยืนยันโดยเจ้าของ 27 ต.ค. 2569"
     }
   },
   "all_units": [
